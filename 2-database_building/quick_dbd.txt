@@ -2,7 +2,6 @@ Player_Data
 ---
 player_id int pk
 player_name varchar(30)
-league_id int FK >- Leagues.league_id
 team_id int FK >- Teams.team_id
 position_id int FK >- Positions.position_id
 goals int
@@ -14,7 +13,6 @@ shots_on_goal int
 saves int
 clean_sheets int
 goals_against int
-bio varchar(500)
 photo_url varchar(500)
 height float
 weight float
@@ -29,6 +27,7 @@ league varchar(30)
 Teams
 ---
 team_id int pk
+league_id int FK >- Leagues.league_id
 team varchar(30)
 
 Positions
