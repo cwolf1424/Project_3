@@ -7,6 +7,7 @@ CREATE TABLE "Player_Data" (
     "player_name" varchar(30)   NOT NULL,
     "team_id" int   NOT NULL,
     "position_id" int   NOT NULL,
+    "jersey_number" int   NOT NULL,
     "goals" int   NOT NULL,
     "assists" int   NOT NULL,
     "yellow_cards" int   NOT NULL,
