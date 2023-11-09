@@ -13,7 +13,19 @@
 </head>
 
 <body>
-    
+    <select id="selLeague" onchange="selLeagueChange(this.value)"></select>
+    <select id="selTeam" onchange="selTeamChange()"></select>
+    <select id="selPosition" onchange="selPositionChange()"></select>
+    <ul id="foundPlayers"></ul>
+    <img id="playerPhoto">
+    <div>
+        <h5 id="playerNumber"></h5>
+        <h5 id="playerBirthdate"></h5>
+        <h5 id="playerHeight"></h5>
+        <h5 id="playerWeight"></h5>
+        <h5 id="playerNationality"></h5>
+    </div>
+
     <!-- D3 JavaScript -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
 
