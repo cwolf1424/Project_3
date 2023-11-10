@@ -4,7 +4,7 @@
 import psycopg2
 import pandas as pd
 from json import loads
-from flask import Flask, jsonify, render_template
+from flask import Flask, render_template
 
 import warnings
 warnings.filterwarnings('ignore')
@@ -114,7 +114,7 @@ def getPlayerPhotoAndDemographics(playerId):
             p.jersey_number,
             p.height,
             p.weight,
-            p.birthdate,
+            TO_CHAR(p.birthdate, 'YYYY-MM-DD') as birthdate,
             n.nationality
         FROM
             "Player_Data" as p

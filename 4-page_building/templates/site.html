@@ -10,13 +10,16 @@
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
 
+    <!-- grid.js CSS-->
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css">
+
 </head>
 
 <body>
     <select id="selLeague" onchange="selLeagueChange(this.value)"></select>
     <select id="selTeam" onchange="selTeamChange()"></select>
     <select id="selPosition" onchange="selPositionChange()"></select>
-    <ul id="foundPlayers"></ul>
+    <div id="playerStatsGrid"></div>
     <img id="playerPhoto">
     <div>
         <h5 id="playerNumber"></h5>
@@ -28,6 +31,9 @@
 
     <!-- D3 JavaScript -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <!-- grid.js JavaScript-->
+    <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
 
     <!-- Our JavaScript -->
     <script type="text/javascript" src="static/js/logic.js"></script>

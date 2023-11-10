@@ -1,0 +1,35 @@
+Open pgAdmin
+
+Go to Servers -> PostgreSQL 13 and connect
+
+Right click on Database and choose Create -> Database
+
+Name the database "Soccer" and click Save
+
+Under the newly created "Soccer" database, right click "Soccer" and choose Query Tool.
+
+Click 'File Open' icon and choose the file 2-database_building\QuickDBD-export.sql file.  Once loaded, click execute button.
+
+Under the "Soccer" database, expand schema -> tables.
+
+Load the tables in the following order.  Right click on each table and choose Import/Export Data.  For filename, browse to 2-database_building\cleaned_data_exports and select the appropriate file
+ * Leagues
+ * Nationalities
+ * Positions
+ * Teams
+ * Player_Data
+
+
+Open git bash and activate your python kernel.
+Example:  conda activate PythonData
+
+Then type in python <path to hosting.py>
+On my machine, I have the project on my C:\, so I type in:
+python /c/Project_3/4-page-building/hosting.py
+
+That should startup http://127.0.01:8000
+
+Type that into your favorite browser to test the website and the api calls.
+
+
+
