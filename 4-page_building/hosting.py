@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
 #########################
 def getDataFrameFromDB(sql):
     conn = psycopg2.connect(
-        database=f"soccer", user='postgres', password='postgres', host='127.0.0.1', port='5432'
+        database=f"Soccer", user='postgres', password='postgres', host='127.0.0.1', port='5432'
     )
 
     conn.autocommit = True
@@ -70,10 +70,10 @@ def getTeamsForLeague(leagueId):
             "Teams"
     '''
 
-    if (int(leagueId) > -1):
+    if (leagueId != '-1'):
         sql += f'''
             WHERE
-                league_id = {leagueId}
+                league_id = '{leagueId}'
         '''
 
     team_df = getDataFrameFromDB(sql)
@@ -123,7 +123,7 @@ def getPlayerPhotoAndDemographics(playerId):
         ON
             n.nationality_id = p.nationality_id
         WHERE
-            p.player_id = {playerId}
+            p.player_id = '{playerId}'
     '''
     player_df = getDataFrameFromDB(sql)
     player_df.index = player_df.index + 1
@@ -170,25 +170,25 @@ def getPlayerStats(leagueId, teamId, positionId):
             l.league_id = t.league_id
     '''
     # if one of the filters is specified, need a 'where' clause
-    if (int(leagueId) > -1) or (int(teamId) > -1) or (int(positionId) > -1):
+    if (leagueId != '-1') or (teamId != '-1') or (positionId != '-1'):
         conditionAdded = False
         sql += 'WHERE '
 
         # all teams for a specified league
-        if (int(leagueId) > -1) and (int(teamId) == -1):
+        if (leagueId != '-1') and (teamId == '-1'):
             conditionAdded = True
-            sql += f' t.league_id = {leagueId}'
+            sql += f" t.league_id = '{leagueId}'"
         
         # specific team selected
-        if (int(teamId) > -1):
+        if (teamId != '-1'):
             conditionAdded = True
-            sql += f' pd.team_id = {teamId}'
+            sql += f" pd.team_id = '{teamId}'"
 
         # specific position selected
-        if (int(positionId) > -1):
+        if (positionId != '-1'):
             if (conditionAdded == True):
                 sql += " AND "
-            sql += f' pd.position_id = {positionId}'
+            sql += f" pd.position_id = '{positionId}'"
 
     player_stats_df = getDataFrameFromDB(sql)
     player_stats_df.index = player_stats_df.index + 1
