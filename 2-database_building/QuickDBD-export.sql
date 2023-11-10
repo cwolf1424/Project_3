@@ -3,10 +3,10 @@
 
 
 CREATE TABLE "Player_Data" (
-    "player_id" int   NOT NULL,
+    "player_id" varchar(30)   NOT NULL,
     "player_name" varchar(30)   NOT NULL,
-    "team_id" int   NOT NULL,
-    "position_id" int   NOT NULL,
+    "team_id" varchar(30)   NOT NULL,
+    "position_id" varchar(30)   NOT NULL,
     "jersey_number" int   NOT NULL,
     "goals" int   NOT NULL,
     "assists" int   NOT NULL,
@@ -19,16 +19,16 @@ CREATE TABLE "Player_Data" (
     "goals_against" int   NOT NULL,
     "photo_url" varchar(500)   NOT NULL,
     "height" float   NOT NULL,
-    "weight" float   NOT NULL,
+    "weight" int   NOT NULL,
     "birthdate" date   NOT NULL,
-    "nationality_id" int   NOT NULL,
+    "nationality_id" varchar(30)   NOT NULL,
     CONSTRAINT "pk_Player_Data" PRIMARY KEY (
         "player_id"
      )
 );
 
 CREATE TABLE "Leagues" (
-    "league_id" int   NOT NULL,
+    "league_id" varchar(30)   NOT NULL,
     "league" varchar(30)   NOT NULL,
     CONSTRAINT "pk_Leagues" PRIMARY KEY (
         "league_id"
@@ -36,16 +36,16 @@ CREATE TABLE "Leagues" (
 );
 
 CREATE TABLE "Teams" (
-    "team_id" int   NOT NULL,
-    "league_id" int   NOT NULL,
+    "team_id" varchar(30)   NOT NULL,
     "team" varchar(30)   NOT NULL,
+    "league_id" varchar(30)   NOT NULL,
     CONSTRAINT "pk_Teams" PRIMARY KEY (
         "team_id"
      )
 );
 
 CREATE TABLE "Positions" (
-    "position_id" int   NOT NULL,
+    "position_id" varchar(30)   NOT NULL,
     "position" varchar(30)   NOT NULL,
     CONSTRAINT "pk_Positions" PRIMARY KEY (
         "position_id"
@@ -53,7 +53,7 @@ CREATE TABLE "Positions" (
 );
 
 CREATE TABLE "Nationalities" (
-    "nationality_id" Int   NOT NULL,
+    "nationality_id" varchar(30)   NOT NULL,
     "nationality" varchar(30)   NOT NULL,
     CONSTRAINT "pk_Nationalities" PRIMARY KEY (
         "nationality_id"

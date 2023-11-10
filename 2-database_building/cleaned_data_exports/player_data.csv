@@ -1,325 +1,325 @@
-player_id,player_name,team_id,league_id,position_id,jersey_number,goals,assists,yellow_cards,red_cards,shots,shots_on_goal,saves,clean_sheets,goals_against,photo_url,height_(ft),weight_(lbs),birthdate,nationality_id
-pl1,Sophia Smith,tm1,lg1,pos1,9,11,5,2,0,75,39,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Sophia_Smith_001.jpeg,5.5,121,2000-08-10,nat1
-pl157,Hannah Betfort,tm1,lg1,pos1,33,2,0,0,0,12,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Hannah_Betfort_001.jpeg,5.83,-1,1999-01-04,nat1
-pl267,Izzy D'Aquila,tm1,lg1,pos1,24,0,0,0,0,16,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Izzy_DAquila_001.jpeg,5.58,-1,2001-09-08,nat1
-pl301,Natalie Beckman,tm1,lg1,pos1,45,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Natalie_Beckman_001.jpeg,5.17,-1,2000-03-25,nat1
-pl154,Ryan Gareis,tm2,lg1,pos1,21,0,0,0,0,5,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Ryan_Gareis_002.jpeg,5.58,-1,1998-11-13,nat1
-pl203,Cameron Tucker,tm2,lg1,pos1,39,0,0,1,0,7,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Cameron_Tucker_002.jpeg,5.75,-1,1999-07-15,nat1
-pl94,Paige Monaghan,tm3,lg1,pos1,5,3,0,1,0,18,11,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Paige_Monaghan_002.jpeg,5.58,-1,1996-11-13,nat1
-pl138,Jessica McDonald,tm3,lg1,pos1,14,0,0,0,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jessica_McDonald_002.jpeg,6.0,-1,1988-02-28,nat1
-pl167,Maddie Pokorny,tm3,lg1,pos1,17,0,1,0,0,5,2,0,0,0,,,-1,1996-11-24,nat1
-pl173,Emina Ekic,tm3,lg1,pos1,13,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Emina_Ekic_1.png,5.33,-1,1999-06-06,nat1
-pl275,Kirsten Davis,tm3,lg1,pos1,22,4,1,1,0,38,13,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Kirsten_Davis_002.jpeg,,-1,1998-09-08,nat1
-pl220,Alexa Spaanstra,tm4,lg1,pos1,77,1,1,0,0,15,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Alexa_Spaanstra.jpeg,5.42,-1,2000-02-01,nat1
-pl242,Kristen Hamilton,tm4,lg1,pos1,25,2,0,1,0,14,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Kristen_Hamilton.jpeg,5.33,-1,1992-04-17,nat1
-pl258,Cecelia Kizer,tm4,lg1,pos1,5,6,2,0,0,30,14,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Cece_Kizer.jpeg,5.67,128,1997-08-07,nat1
-pl290,Michelle Cooper,tm4,lg1,pos1,17,3,1,5,0,37,17,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Michelle_Cooper.jpeg,5.25,-1,2002-12-04,nat1
-pl12,Alex Morgan,tm5,lg1,pos1,13,6,4,0,0,47,21,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\27/Alexandra_Morgan_Carrasco_1.PNG,5.58,137,1989-07-02,nat1
-pl42,Makenzy Doniak,tm5,lg1,pos1,15,3,2,1,0,27,13,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Makenzy_Doniak_001.jpeg,5.67,-1,1994-02-25,nat1
-pl140,Rachel Hill,tm5,lg1,pos1,3,0,0,3,0,9,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Rachel_Hill_001.jpeg,5.42,-1,1995-04-17,nat1
-pl153,Amirah Ali,tm5,lg1,pos1,7,2,0,1,0,15,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Amirah_Ali_001.jpeg,5.67,-1,1998-12-07,nat1
-pl308,Jaedyn Shaw,tm5,lg1,pos1,11,5,3,2,0,38,16,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\11\28/Jaedyn_Shaw.png,5.5,-1,2004-11-20,nat1
-pl321,Melanie Barcenas,tm5,lg1,pos1,25,0,1,0,0,6,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\5\5/Melanie_Barcenas.png,5.33,-1,2007-10-30,nat1
-pl199,Summer Yates,tm6,lg1,pos1,28,0,0,0,0,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Summer_Yates_001.jpeg,,-1,2000-06-17,nat1
-pl217,Messiah Bright,tm6,lg1,pos1,23,6,0,2,0,38,12,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Messiah_Bright_001.jpeg,,-1,2000-01-12,nat1
-pl13,Megan Rapinoe,tm7,lg1,pos1,15,2,5,2,0,32,12,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Megan_Rapinoe_001.jpeg,5.5,130,1985-07-05,nat1
-pl44,Veronica Latsko,tm7,lg1,pos1,24,4,2,2,0,16,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Veronica_Latsko_001.jpeg,5.67,-1,1995-12-12,nat1
-pl112,Tziarra King,tm7,lg1,pos1,23,0,0,1,0,9,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Tziarra_King_001.jpeg,5.75,-1,1998-08-24,nat1
-pl162,Elyse Bennett,tm7,lg1,pos1,34,2,2,1,0,24,10,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Elyse_Bennett_001.jpeg,5.83,-1,1999-12-27,nat1
-pl236,Bethany Balcer,tm7,lg1,pos1,8,6,1,0,0,35,13,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Bethany_Balcer_001.jpeg,5.75,-1,1997-03-07,nat1
-pl54,Lynn Williams,tm8,lg1,pos1,10,7,2,1,0,76,34,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Lynn_Williams_001.jpeg,5.67,126,1993-05-21,nat1
-pl87,Midge Purce,tm8,lg1,pos1,23,3,2,4,0,27,14,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\28/Margaret_Purce.png,5.42,-1,1995-09-18,nat1
-pl192,Cyera Hintzen,tm8,lg1,pos1,30,0,0,0,0,0,0,0,0,0,,,-1,1997-10-28,nat1
-pl254,Katie Stengel,tm8,lg1,pos1,-1,2,0,1,0,6,4,0,0,0,,5.75,-1,1992-02-29,nat1
-pl37,Ashley Hatch,tm9,lg1,pos1,33,9,2,3,0,54,24,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Ashley_Hatch_002.jpeg,5.75,-1,1995-05-25,nat1
-pl150,Civana Kuhlmann,tm9,lg1,pos1,20,0,0,0,0,3,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/USATSI_20237428.jpg,5.5,-1,1999-04-14,nat1
-pl177,Tara McKeown,tm9,lg1,pos1,9,1,1,4,0,19,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Tara_McKeown_002.jpeg,5.58,-1,1999-07-02,nat1
-pl209,Ashley Sanchez,tm9,lg1,pos1,10,5,1,0,0,39,16,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Ashley_Sanchez_002.jpeg,5.33,117,1999-03-16,nat1
-pl218,Lena Silano,tm9,lg1,pos1,24,0,1,0,0,8,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Lina_Silano_002.jpeg,5.58,-1,2000-02-28,nat1
-pl286,Trinity Rodman,tm9,lg1,pos1,2,5,2,3,0,56,29,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Trinity_Rodman_002.jpeg,5.58,128,2002-05-20,nat1
-pl21,Sydney Leroux,tm10,lg1,pos1,2,1,0,0,0,13,8,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Sidney_Leroux_001.jpeg,5.58,-1,1990-05-07,nat1
-pl28,Simone Charley,tm10,lg1,pos1,7,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Simone_Charley_001.jpeg,5.67,-1,1995-02-04,nat1
-pl260,Jasmyne Spencer,tm10,lg1,pos1,3,1,0,1,0,13,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Jasmyne_Spencer_001.jpeg,5.08,-1,1990-08-27,nat1
-pl100,Mallory Swanson,tm11,lg1,pos1,9,1,0,0,0,9,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Mallory_Swanson_001.jpeg,5.33,117,1998-04-29,nat1
-pl115,Ella Stevens,tm11,lg1,pos1,8,4,1,1,0,18,8,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Ella_Stevens_002.jpeg,5.67,-1,1997-12-11,nat1
-pl172,Jenna Bike,tm11,lg1,pos1,24,0,0,2,0,5,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Jenna_Bike_002.jpeg,5.5,-1,1998-02-02,nat1
-pl206,Sarah Griffith,tm11,lg1,pos1,15,0,1,0,0,8,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Sarah_Griffith_001.jpeg,5.33,-1,1999-04-30,nat1
-pl216,Penelope Hocking,tm11,lg1,pos1,55,3,1,3,0,33,12,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Penelope_Hocking_002.jpeg,5.42,-1,1999-12-29,nat1
-pl295,Ava Cook,tm11,lg1,pos1,25,3,0,2,0,17,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Ava_Cook_001.jpeg,5.83,-1,1998-10-03,nat1
-pl318,Allyson Schlegel,tm11,lg1,pos1,34,2,1,0,0,4,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Ally_Schlegel_001.jpeg,5.58,-1,2000-02-07,nat1
-pl43,Brittany Ratcliffe,tm12,lg1,pos1,11,0,0,0,0,9,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Brittany_Ratcliffe.jpeg,5.33,-1,1994-02-07,nat1
-pl165,Haley Hopkins,tm12,lg1,pos1,5,1,1,0,0,13,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/haley.jpg,,-1,1998-12-21,nat1
-pl204,Olivia Wingate,tm12,lg1,pos1,20,0,2,0,0,13,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Olivia_Wingate.jpeg,,-1,2000-02-20,nat1
-pl237,Tyler Lussi,tm12,lg1,pos1,14,5,0,3,0,25,11,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Tyler_Lussi.jpeg,5.58,-1,1995-01-26,nat1
-pl16,Becky Sauerbrunn,tm1,lg1,pos3,4,0,0,0,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Becky_Sauerbrunn.png,5.58,139,1985-06-06,nat1
-pl23,Meghan Klingenberg,tm1,lg1,pos3,25,0,3,2,0,9,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Meghan_Klingenberg_001.jpeg,5.17,126,1988-08-02,nat1
-pl32,Kelli Hubly,tm1,lg1,pos3,20,1,0,4,1,10,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Kelli_Hubly_001.jpeg,5.75,-1,1994-08-09,nat1
-pl97,Tegan McGrady,tm1,lg1,pos3,29,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Tegan_McGrady_001.jpeg,5.5,-1,1997-10-11,nat1
-pl130,Meaghan Nally,tm1,lg1,pos3,39,0,0,1,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Meaghan_Nally_001.jpeg,5.58,-1,1998-06-30,nat1
-pl137,Emily Menges,tm1,lg1,pos3,5,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Emily_Menges_001.jpeg,5.58,-1,1992-07-28,nat1
-pl60,Katie Naughton,tm2,lg1,pos3,25,0,0,0,1,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Katie_Lind_002.jpeg,5.83,-1,1994-02-15,nat1
-pl91,Natalie Jacobs,tm2,lg1,pos3,4,0,0,4,1,5,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Natalie_Jacobs_002.jpeg,5.67,-1,1997-08-16,nat1
-pl123,Ally Prisock,tm2,lg1,pos3,23,1,0,0,0,1,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Ally_Prisock_002.jpeg,5.67,-1,1997-01-18,nat1
-pl128,Courtney Petersen,tm2,lg1,pos3,5,0,0,1,0,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Courtney_Peters_002.jpeg,5.42,-1,1997-10-28,nat1
-pl200,Jyllissa Harris,tm2,lg1,pos3,37,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jyllissa_Harris_002.JPG,5.67,-1,2000-04-08,nat1
-pl243,Caprice Dydasco,tm2,lg1,pos3,3,0,1,3,0,9,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Caprice_Dydasco_002.jpeg,5.25,-1,1993-08-19,nat1
-pl266,Madelyn Desiano,tm2,lg1,pos3,31,0,0,0,0,1,0,0,0,0,,5.5,-1,2000-02-18,nat1
-pl273,Lindsi Jennings,tm2,lg1,pos3,36,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\12/jennings.jpg,5.75,-1,,nat1
-pl53,Carson Pickett,tm3,lg1,pos3,16,0,0,3,0,13,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Carson_Pickett_002.jpeg,5.67,-1,1993-09-15,nat1
-pl109,Julia Lester,tm3,lg1,pos3,15,0,0,1,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Julia_Lester_002.jpeg,,-1,1998-01-16,nat1
-pl278,Zaneta Wyne,tm3,lg1,pos3,3,0,0,0,0,0,0,0,0,0,,5.5,128,1990-08-03,nat1
-pl7,Alexis Loera,tm4,lg1,pos3,22,0,3,1,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Alexis_Loera.jpeg,5.58,163,1999-06-19,nat1
-pl62,Elizabeth Ball,tm4,lg1,pos3,7,0,0,1,0,6,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Elizabeth_Ball.jpeg,5.5,-1,1995-10-19,nat1
-pl63,Mallory Weber,tm4,lg1,pos3,20,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Mallory_Weber.jpeg,5.5,-1,1994-04-04,nat1
-pl175,Jenna Winebrenner,tm4,lg1,pos3,19,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jenna_Winebrenner.jpeg,5.58,-1,1999-03-01,nat1
-pl183,Addisyn Merrick,tm4,lg1,pos3,26,0,0,0,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Addisyn_Merrick.jpeg,5.33,-1,1998-03-04,nat1
-pl187,Kate Del Fava,tm4,lg1,pos3,8,0,1,3,0,9,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Kate_Del_Fava.jpeg,5.67,-1,1998-07-23,nat1
-pl269,Croix Soto,tm4,lg1,pos3,23,0,0,0,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\9\14/Croix_Soto.png,5.83,-1,2001-01-02,nat1
-pl282,Gabrielle Robinson,tm4,lg1,pos3,24,0,0,2,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Gabrielle_Robinson.jpeg,5.67,-1,2001-06-18,nat1
-pl300,Isabel Rodriguez,tm4,lg1,pos3,18,3,2,3,0,7,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Isabel_Rodriguez.jpeg,5.42,-1,1999-04-13,nat1
-pl25,Christen Westphal,tm5,lg1,pos3,20,0,4,1,0,6,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Christen_Westphal_001.jpeg,5.5,-1,1993-09-02,nat1
-pl85,Kaleigh Riehl,tm5,lg1,pos3,18,0,0,1,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Kaleigh_Riehl_001.jpeg,5.67,-1,1996-10-21,nat1
-pl114,Mia Gyau,tm5,lg1,pos3,26,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Mia_Gyau_001.jpeg,5.33,-1,1998-06-22,nat1
-pl132,Abby Dahlkemper,tm5,lg1,pos3,2,1,0,0,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Abby_Dahlkemper_001.jpeg,5.58,-1,1993-05-13,nat1
-pl222,Chai Cortez,tm5,lg1,pos3,46,0,0,0,0,0,0,0,0,0,,,-1,1998-07-18,nat1
-pl224,Madison Pogarch,tm5,lg1,pos3,16,1,0,4,0,5,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Madison_Pogarch_001.jpeg,5.5,-1,1997-11-05,nat1
-pl227,Naomi Girma,tm5,lg1,pos3,4,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Naomi_Girma_001.jpeg,5.42,126,2000-06-14,nat1
-pl306,Cheyenne Shorts,tm5,lg1,pos3,-1,1,0,0,0,1,1,0,0,0,,5.75,-1,1998-08-10,nat1
-pl90,Haley Hanson,tm6,lg1,pos3,2,1,0,4,0,15,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Haley_McCutcheon_001.jpeg,5.5,-1,1996-02-22,nat1
-pl145,Megan Oyster,tm6,lg1,pos3,5,0,0,3,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Megan_Montefusco_001.jpeg,5.67,-1,1992-09-03,nat1
-pl168,Emily Madril,tm6,lg1,pos3,6,0,0,2,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Emily_Madril_001.jpeg,,-1,1999-07-01,nat1
-pl170,Kerry Abello,tm6,lg1,pos3,25,1,0,1,0,27,12,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Kerry_Abello_001.jpeg,,-1,1999-09-17,nat1
-pl181,Caitlin Cosme,tm6,lg1,pos3,26,0,0,1,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\26/Caitlin_Cosme_1.PNG,,-1,1999-01-19,nat1
-pl270,Kylie Strom,tm6,lg1,pos3,3,1,1,2,0,7,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Kylie_Strom_001.jpeg,5.67,-1,1992-03-18,nat1
-pl323,Brianna Martínez,tm6,lg1,pos3,32,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/martinez_headshot.jpg,,-1,2000-04-22,nat1
-pl38,Emily Sonnett,tm7,lg1,pos3,2,0,1,4,0,9,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Emily_Sonnett_001.jpeg,5.58,137,1993-11-25,nat1
-pl99,Alana Cook,tm7,lg1,pos3,4,0,1,2,1,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Alana_Cook_001.jpeg,5.75,150,1997-04-11,nat1
-pl101,Lauren Barnes,tm7,lg1,pos3,3,0,1,1,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Lauren_Barnes_001.jpeg,5.42,-1,1989-05-31,nat1
-pl127,Phoebe McClernon,tm7,lg1,pos3,21,0,0,2,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Phoebe_McClernon_001.jpeg,5.58,-1,1997-12-13,nat1
-pl155,Alyssa Malonson,tm7,lg1,pos3,20,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Alyssa_Malonson_001.jpeg,5.25,-1,1999-04-09,nat1
-pl158,Ryanne Brown,tm7,lg1,pos3,22,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Ryanne_Brown_001.jpeg,5.67,-1,1999-01-21,nat1
-pl188,Sofia Huerta,tm7,lg1,pos3,11,1,2,2,0,9,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Sofia_Huerta_001.jpeg,5.67,139,1992-12-14,nat1
-pl198,Shae Holmes,tm7,lg1,pos3,25,0,0,0,0,1,0,0,0,0,,,-1,2000-03-08,nat1
-pl279,Samantha Hiatt,tm7,lg1,pos3,17,0,0,2,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Sam_Hiatt_001.jpeg,5.83,-1,1998-01-06,nat1
-pl14,Ali Krieger,tm8,lg1,pos3,11,0,0,1,0,3,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Ali_Krieger_001.jpeg,5.5,130,1984-07-28,nat1
-pl19,Kelley O'Hara,tm8,lg1,pos3,5,0,0,2,0,10,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Kelley_OHara_001.jpeg,5.42,128,1988-08-04,nat1
-pl47,Imani Dorsey,tm8,lg1,pos3,2,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Imani_Dorsey_001.jpeg,5.58,-1,1996-03-21,nat1
-pl50,Taylor Smith,tm8,lg1,pos3,20,1,1,1,0,11,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Taylor_Smith_001.jpeg,5.25,-1,1993-12-01,nat1
-pl86,Ellie Jean,tm8,lg1,pos3,21,0,0,1,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Ellie_Jean_001.jpeg,5.58,-1,1997-01-31,nat1
-pl108,Nealy Martin,tm8,lg1,pos3,14,0,1,1,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Nealy_Martin_001.jpeg,5.58,-1,1998-04-22,nat1
-pl122,Mandy Freeman,tm8,lg1,pos3,22,0,0,1,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\28/Mandy_Freeman.png,5.67,-1,1995-03-23,nat1
-pl135,Kristen Edmonds,tm8,lg1,pos3,12,0,0,0,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Kristen_Edmonds_001.jpeg,5.42,-1,1987-05-22,nat1
-pl80,Sam Staab,tm9,lg1,pos3,3,1,1,4,0,11,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Sam_Staab_002.jpeg,5.58,-1,1997-03-28,nat1
-pl120,Camryn Biegalski,tm9,lg1,pos3,30,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Camryn_Biegalski_002.jpeg,5.75,-1,1998-08-11,nat1
-pl253,Amber Brooks,tm9,lg1,pos3,22,0,0,1,0,4,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Amber_Brooks_002.jpeg,5.5,-1,1991-01-23,nat1
-pl40,Megan Reid,tm10,lg1,pos3,6,0,0,0,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Megan_Reid_001.jpeg,5.67,-1,1996-07-08,nat1
-pl51,Paige Nielsen,tm10,lg1,pos3,14,1,0,3,0,15,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Paige_Nielsen_001.jpeg,5.42,-1,1993-10-14,nat1
-pl111,M.A. Vignola,tm10,lg1,pos3,16,2,0,2,0,23,9,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Mary_Alice_Vignola_001.jpeg,5.5,-1,1998-02-11,nat1
-pl156,Madison Hammond,tm10,lg1,pos3,99,1,1,2,0,11,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Madison_Hammond_001.jpeg,5.75,-1,1997-11-15,nat1
-pl249,Sarah Gorden,tm10,lg1,pos3,11,0,0,1,0,5,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Sarah_Gorden_001.jpeg,5.33,-1,1992-09-13,nat1
-pl291,Kelsey Hill,tm10,lg1,pos3,36,0,0,0,0,0,0,0,0,0,,,-1,,nat1
-pl33,Arin Wright,tm11,lg1,pos3,3,1,0,1,0,11,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Arin_Wright_001.jpeg,5.58,130,1992-12-25,nat1
-pl88,Kayla Sharples,tm11,lg1,pos3,28,1,0,1,0,4,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Kayla_Sharples_001.jpeg,5.92,-1,1997-06-17,nat1
-pl110,Tatumn Milazzo,tm11,lg1,pos3,23,1,1,3,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Tatumn_Milazzo_002.jpeg,5.25,-1,1998-04-17,nat1
-pl118,Tierna Davidson,tm11,lg1,pos3,12,0,0,1,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Tierna_Davidson_001.jpeg,5.83,-1,1998-09-19,nat1
-pl126,Amanda Kowalski,tm11,lg1,pos3,31,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Amanda_Kowalski_001.jpeg,5.75,-1,1998-01-09,nat1
-pl131,Casey Krueger,tm11,lg1,pos3,6,0,2,0,0,9,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Casey_Krueger_001.jpeg,5.5,-1,1990-08-23,nat1
-pl30,Kaleigh Kurtz,tm12,lg1,pos3,3,0,1,2,0,8,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Kaleigh_Kurtz.jpeg,5.67,-1,1994-09-09,nat1
-pl49,Nikia Smith,tm12,lg1,pos3,21,0,0,0,0,0,0,0,0,0,,,-1,,nat1
-pl106,Malia Berkely,tm12,lg1,pos3,7,0,0,0,1,4,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Malia_Berkely.jpeg,5.67,-1,1998-02-13,nat1
-pl151,Kiara Pickett,tm12,lg1,pos3,23,0,1,2,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\28/Kiki_14.png,5.0,-1,1999-04-30,nat1
-pl176,Emily Fox,tm12,lg1,pos3,12,0,2,0,1,10,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Emily_Fox.jpeg,5.42,121,1998-07-05,nat1
-pl205,Sarah Clark,tm12,lg1,pos3,2,0,0,0,0,0,0,0,0,0,,,-1,,nat1
-pl257,Ryan Williams,tm12,lg1,pos3,13,0,2,3,0,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Ryan_Williams.jpeg,5.5,-1,1996-02-23,nat1
-pl93,Crystal Dunn,tm1,lg1,pos2,19,5,2,0,0,33,18,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Crystal_Dunn_001.jpeg,5.17,117,1992-07-03,nat1
-pl113,Taylor Porter,tm1,lg1,pos2,46,0,0,0,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Taylor_Porter_001.jpeg,5.67,-1,1997-10-29,nat1
-pl125,Michele Vasconcelos,tm1,lg1,pos2,15,1,0,0,0,11,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Michele_Vasconcelos_001.jpeg,5.42,-1,1994-05-11,nat1
-pl152,Gabby Provenzano,tm1,lg1,pos2,44,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Gabby_Provenzano_001.jpeg,5.42,-1,1999-08-07,nat1
-pl161,Morgan Weaver,tm1,lg1,pos2,22,7,4,1,0,72,24,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Morgan_Weaver_001.jpeg,5.83,-1,1997-10-18,nat1
-pl289,Olivia Moultrie,tm1,lg1,pos2,13,2,3,1,0,36,13,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Olivia_Moultrie_001.jpeg,5.58,-1,2005-09-17,nat1
-pl298,Samantha Coffey,tm1,lg1,pos2,17,0,8,1,0,14,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Sam_Coffey_001.jpeg,5.42,-1,1998-12-31,nat1
-pl27,Shea Groom,tm2,lg1,pos2,10,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Shea_Groom_002.jpeg,5.5,-1,1993-03-04,nat1
-pl76,Kelcie Hedge,tm2,lg1,pos2,17,0,0,0,0,0,0,0,0,0,,5.58,-1,1997-09-19,nat1
-pl89,Marisa Viggiano,tm2,lg1,pos2,14,0,0,2,0,17,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Marisa_Viggiano_002.jpeg,5.33,-1,1997-02-05,nat1
-pl159,Joelle Anderson,tm2,lg1,pos2,29,1,0,4,0,24,8,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Joelle_Anderson_002.jpeg,,-1,1998-10-06,nat1
-pl309,Sophie Hirst,tm2,lg1,pos2,30,1,0,0,0,5,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Sophie_Hirst_002.jpeg,,-1,2000-02-25,nat1
-pl129,Taylor Aylmer,tm3,lg1,pos2,26,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\8\29/Taylor_Aylmer.jpg,5.67,-1,1998-09-23,nat1
-pl163,Parker Goins,tm3,lg1,pos2,21,1,0,0,0,5,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Parker_Goins_002.jpeg,,-1,1998-12-08,nat1
-pl178,Savannah DeMelo,tm3,lg1,pos2,7,5,2,5,1,49,14,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Savannah_DeMelo_002.jpeg,5.5,159,1998-03-26,nat1
-pl195,Jaelin Howell,tm3,lg1,pos2,6,0,0,4,0,16,7,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jaelin_Howell_002.jpeg,5.67,-1,1999-11-21,nat1
-pl196,Kayla Fischer,tm3,lg1,pos2,9,0,1,1,0,16,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/fischer.jpg,5.67,-1,2000-01-05,nat1
-pl219,Lauren Milliet,tm3,lg1,pos2,2,0,1,2,0,5,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Lauren_Milliet_002.jpeg,5.08,-1,1996-12-01,nat1
-pl247,Jordan Baggett,tm3,lg1,pos2,19,1,0,0,0,2,1,0,0,0,,5.5,-1,1996-10-28,nat1
-pl322,Riley Parker,tm3,lg1,pos2,-1,0,0,0,0,0,0,0,0,0,,,-1,2000-03-31,nat1
-pl41,Morgan Gautrat,tm4,lg1,pos2,2,0,0,1,0,4,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Morgan_Gautrat.jpeg,5.58,121,1993-02-26,nat1
-pl55,Lo'eau LaBonta,tm4,lg1,pos2,10,2,1,2,0,17,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Lo_Labonta.jpeg,5.08,-1,1993-03-18,nat1
-pl116,Hailie Mace,tm4,lg1,pos2,4,0,2,3,0,15,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Hailie_Mace.jpeg,5.58,-1,1997-03-24,nat1
-pl221,Chardonnay Curran,tm4,lg1,pos2,14,0,0,0,0,4,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Chardonnay_Curran.jpeg,5.33,-1,1999-08-18,nat1
-pl251,Vanessa Di Bernardo,tm4,lg1,pos2,16,0,2,1,0,19,7,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Vanessa_DiBernardo.jpeg,5.33,-1,1992-05-15,nat1
-pl316,Ryan Childers,tm4,lg1,pos2,6,0,0,1,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Rylan_Childers.jpeg,,-1,2000-09-19,nat1
-pl24,Meggie Dougherty Howard,tm5,lg1,pos2,28,0,0,0,0,11,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\26/Meggie_Dougherty_Howard_1.PNG,5.42,-1,1995-07-27,nat1
-pl39,Danielle Colaprico,tm5,lg1,pos2,24,0,1,3,0,9,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Danielle_Colaprico_001A.jpeg,5.25,-1,1993-05-06,nat1
-pl45,Kristen McNabb,tm5,lg1,pos2,14,1,0,4,0,5,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Kristen_McNabb_001.jpeg,5.42,-1,1994-04-17,nat1
-pl119,Taylor Kornieck,tm5,lg1,pos2,22,1,0,4,0,18,7,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Taylor_Kornieck_001.jpeg,6.08,-1,1998-11-22,nat1
-pl201,Giovanna Demarco,tm5,lg1,pos2,12,0,0,0,0,0,0,0,0,0,,5.58,-1,1999-07-09,nat1
-pl214,Kelsey Turnbow,tm5,lg1,pos2,6,0,1,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Kelse_Turnbow_001.jpeg,5.67,-1,1999-01-10,nat1
-pl228,Sierra Enge,tm5,lg1,pos2,8,2,0,1,0,4,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Sierra_Enge_001.jpeg,5.42,-1,2000-02-23,nat1
-pl303,Isabella Briede,tm5,lg1,pos2,23,1,0,0,0,5,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Belle_Briede_001.jpeg,5.5,-1,1998-10-03,nat1
-pl77,Ally Watt,tm6,lg1,pos2,11,1,1,1,0,25,12,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Ally_Watt_001.jpeg,,-1,1997-03-12,nat1
-pl202,Mikayla Cluff,tm6,lg1,pos2,8,2,1,2,0,22,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Mikayla_Cluff_001.jpeg,5.67,-1,1999-02-25,nat1
-pl208,Viviana Villacorta,tm6,lg1,pos2,14,0,1,0,0,9,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Viviana_Villacorta_001.jpeg,5.58,-1,1999-02-02,nat1
-pl215,Julie Doyle,tm6,lg1,pos2,20,2,3,2,0,15,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Julie_Doyle_001.jpeg,5.83,-1,1998-08-30,nat1
-pl255,Erika Tymrak,tm6,lg1,pos2,15,0,3,0,0,10,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Erika_Tymrak_001.jpeg,5.42,-1,1991-08-07,nat1
-pl36,Rose Lavelle,tm7,lg1,pos2,16,0,1,0,0,8,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Rose_Lavelle_001.jpeg,5.33,117,1995-05-14,nat1
-pl117,Marley Canales,tm7,lg1,pos2,13,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Marley_Canales_001.jpeg,5.33,-1,1997-11-16,nat1
-pl174,Olivia Van der Jagt,tm7,lg1,pos2,33,1,0,0,0,9,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Olivia_Van_der_Jagt_001.jpeg,5.67,-1,1999-07-07,nat1
-pl211,Olivia Athens,tm7,lg1,pos2,12,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Olivia_Athens_001.jpeg,5.58,-1,1998-08-01,nat1
-pl250,Nikki Stanton,tm7,lg1,pos2,7,0,2,5,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Nikki_Stanton_001.jpeg,5.58,121,1990-10-26,nat1
-pl102,Allie Long,tm8,lg1,pos2,6,2,0,3,0,7,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Allie_Long_001_43.jpeg,5.67,128,1987-08-13,nat1
-pl182,Yazmeen Ryan,tm8,lg1,pos2,18,0,1,5,0,40,9,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Yazmeen_Ryan_001.jpeg,5.5,-1,1999-02-25,nat1
-pl189,McCall Zerboni,tm8,lg1,pos2,7,0,0,1,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/McCall_Zerboni_001.jpeg,5.33,-1,1986-12-13,nat1
-pl212,Delanie Sheehan,tm8,lg1,pos2,17,0,1,0,0,18,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Delanie_Sheehan_001.jpeg,5.5,-1,1999-01-13,nat1
-pl252,Kristie Mewis,tm8,lg1,pos2,19,0,1,0,0,24,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Kristie_Mewis_001.jpeg,5.58,139,1991-02-25,nat1
-pl259,Meleana Shim,tm8,lg1,pos2,13,0,0,0,0,3,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\9\14/Mana_Shim.png,5.33,-1,1991-09-25,nat1
-pl262,Jenna Nighswonger,tm8,lg1,pos2,32,3,0,4,0,30,10,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jenna_Nighswonger_001.jpeg,5.83,-1,2000-11-28,nat1
-pl57,Andi Sullivan,tm9,lg1,pos2,12,0,0,4,0,19,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Andi_Maureen_Sullivan_1_1.PNG,5.58,126,1995-12-20,nat1
-pl79,Bayley Feist,tm9,lg1,pos2,13,0,0,0,0,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Bayley_Feist_004.jpeg,5.58,-1,1997-03-14,nat1
-pl96,Dorian Bailey,tm9,lg1,pos2,19,0,2,1,0,4,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Dorian_Bailey_002.jpeg,5.25,-1,1997-01-28,nat1
-pl166,Madison Elwell,tm9,lg1,pos2,16,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Maddie_Elwell_002.jpeg,,-1,1999-09-06,nat1
-pl246,Victoria Huster,tm9,lg1,pos2,23,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Tori_Huster_002.jpeg,5.42,128,1989-09-23,nat1
-pl319,Paige Metayer,tm9,lg1,pos2,26,3,1,0,1,17,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Paige_Metayer_002.jpeg,,-1,2000-09-23,nat1
-pl320,Chloe Ricketts,tm9,lg1,pos2,39,0,0,1,0,3,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Chloe_Ricketts_002.jpeg,5.08,-1,2007-05-23,nat1
-pl31,Savannah McCaskill,tm10,lg1,pos2,9,3,3,4,0,36,17,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Savannah_McCaskill_001.jpeg,5.33,-1,1996-07-31,nat1
-pl65,Julie Ertz,tm10,lg1,pos2,8,1,0,1,0,8,2,0,0,0,,5.58,132,1992-04-06,nat1
-pl95,Dani Weatherholt,tm10,lg1,pos2,17,0,1,2,0,14,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Dani_Weatherholt_001.jpeg,5.67,-1,1994-03-17,nat1
-pl180,Lily Nabet,tm10,lg1,pos2,28,0,0,1,0,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Lily_Nabet_001.jpeg,5.25,-1,1999-09-24,nat1
-pl197,Mackenzie Pluck,tm10,lg1,pos2,24,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Mackenzie_Pluck_001.jpeg,,-1,2000-04-12,nat1
-pl248,Elizabeth Eddy,tm10,lg1,pos2,44,0,0,0,0,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Elizabeth_Eddy_002.jpeg,5.42,-1,1991-09-13,nat1
-pl311,Alyssa Thompson,tm10,lg1,pos2,21,4,1,0,0,26,8,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Alyssa_Thompson_001.jpeg,5.33,108,2004-11-07,nat1
-pl160,Addie McCain,tm11,lg1,pos2,13,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Addie_McCain_002.jpeg,5.75,-1,1999-08-28,nat1
-pl164,Taylor Malham,tm11,lg1,pos2,32,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Taylor_Malham_001.jpeg,5.83,-1,1999-05-20,nat1
-pl239,Cari Roccaro,tm11,lg1,pos2,4,1,0,2,0,10,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Cari_Roccaro_001.jpeg,5.5,-1,1994-07-18,nat1
-pl261,Sophie Jones,tm11,lg1,pos2,16,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Sophie_Jones_002.jpeg,5.42,-1,2001-07-17,nat1
-pl296,Samantha Fisher,tm11,lg1,pos2,2,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Samantha_Fisher_001.jpeg,5.5,-1,1999-08-26,nat1
-pl317,Sami Feller,tm11,lg1,pos2,29,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Sami_Feller_001.jpeg,5.83,-1,,nat1
-pl107,Clara Robbins,tm12,lg1,pos2,26,0,0,0,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Clara_Robbins.jpeg,5.58,-1,1998-12-09,nat1
-pl142,Brianna Pinto,tm12,lg1,pos2,8,1,0,2,0,8,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Brianna_Pinto.jpeg,5.42,-1,2000-05-24,nat1
-pl169,Frankie Tagliaferri,tm12,lg1,pos2,19,0,1,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Frankie_Tagliaferri.jpeg,5.58,-1,1999-01-18,nat1
-pl179,Tess Boade,tm12,lg1,pos2,28,1,2,0,0,15,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\26/Tess.png,5.33,-1,1999-02-03,nat1
-pl240,Meredith Speck,tm12,lg1,pos2,25,1,0,1,0,3,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Meredith_Speck.jpeg,5.25,-1,1993-02-01,nat1
-pl184,Shelby Hogan,tm1,lg1,pos4,18,0,0,0,0,0,0,1,0,2,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Shelby_Hogan_001.jpeg,5.92,-1,1998-05-10,nat1
-pl238,Bella Bixby,tm1,lg1,pos4,1,1,0,2,0,1,1,63,6,25,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Bella_Bixby_001.jpeg,6.0,-1,1995-11-20,nat1
-pl310,Lauren Kozal,tm1,lg1,pos4,-1,0,0,0,0,0,0,0,0,0,,5.83,-1,2000-07-11,nat1
-pl56,Jane Campbell,tm2,lg1,pos4,1,0,0,0,0,0,0,83,8,17,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Jane_Campbell_002.jpeg,5.75,-1,1995-02-17,nat1
-pl191,Savannah Madden,tm2,lg1,pos4,35,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Savannah_Madden_002.jpeg,5.58,-1,1999-02-02,nat1
-pl121,Jordyn Bloomer,tm3,lg1,pos4,24,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Jordyn_Bloomer_1.png,,-1,1997-10-14,nat1
-pl139,Katie Lund,tm3,lg1,pos4,1,0,0,0,0,0,0,80,6,22,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Katie_Lund_002.jpeg,6.08,-1,1996-11-27,nat1
-pl171,Hillary Beall,tm3,lg1,pos4,18,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Hillary_Beal_1.png,5.92,-1,1999-01-27,nat1
-pl287,Olivia Sekany,tm3,lg1,pos4,99,0,0,0,0,0,0,0,0,0,,6.0,-1,1998-12-29,nat1
-pl52,Cassie Miller,tm4,lg1,pos4,38,0,0,1,0,0,0,29,4,13,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Cassie_Miller_1.png,5.92,-1,1995-04-28,nat1
-pl136,Adrianna Franch,tm4,lg1,pos4,21,0,0,1,0,0,0,39,1,21,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Adrianna_Franch.jpeg,5.75,-1,1990-11-12,nat1
-pl75,Shae Yanez,tm5,lg1,pos4,30,0,0,0,0,0,0,7,0,4,https://d2nkt8hgeld8zj.cloudfront.net\images\players\headshot/4x0c0fhtuohubcm7u16qzr2wa.png,5.67,-1,1997-05-22,nat1
-pl210,Lauren Brzykcy,tm5,lg1,pos4,17,0,0,0,0,0,0,0,0,0,,5.83,-1,1999-11-08,nat1
-pl133,Carly Nelson,tm6,lg1,pos4,31,0,0,0,0,0,0,4,0,4,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Carly_Nelson_001.jpeg,,-1,1998-02-11,nat1
-pl213,Mckinley Crone,tm6,lg1,pos4,40,0,0,0,0,0,0,0,0,0,,,-1,1998-10-20,nat1
-pl226,Claudia Dickey,tm7,lg1,pos4,30,0,0,0,0,0,0,19,2,5,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Claudia_Dickey_001.jpeg,5.83,-1,2000-01-06,nat1
-pl297,Lauren Ivory,tm7,lg1,pos4,18,0,0,1,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Laurel_Ivory_001.jpeg,5.75,-1,1999-08-28,nat1
-pl46,Abby Smith,tm8,lg1,pos4,4,0,0,0,0,0,0,45,4,15,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Abby_Smith_001.jpeg,5.75,-1,1993-10-04,nat1
-pl256,Michelle Betos,tm8,lg1,pos4,1,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Michelle_Betos_001.jpeg,5.75,-1,1988-02-20,nat1
-pl277,Mandy Haught,tm8,lg1,pos4,24,0,0,1,0,0,0,11,2,7,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Mandy_Haught_001.jpeg,5.75,-1,1998-11-03,nat1
-pl15,Nicole Barnhart,tm9,lg1,pos4,28,0,0,0,0,0,0,9,0,5,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Nicole_Barnhart_002.jpeg,5.83,161,1981-10-10,nat1
-pl245,Aubrey Kingsbury,tm9,lg1,pos4,1,0,0,0,0,0,0,50,4,23,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Aubrey_Kingsbury_002.jpeg,5.83,146,1991-11-20,nat1
-pl285,Lyza Bosselmann,tm9,lg1,pos4,18,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Liza_Bosselmann_002.jpeg,,-1,2001-07-27,nat1
-pl280,Brittany Isenhour,tm10,lg1,pos4,1,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Brittany_Isenhour_001.jpeg,5.67,-1,1997-09-22,nat1
-pl312,Angelina Anderson,tm10,lg1,pos4,19,0,0,0,0,0,0,14,1,2,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Angelina_Anderson_001.jpeg,5.92,-1,2001-03-22,nat1
-pl59,Emily Boyd,tm11,lg1,pos4,21,0,0,0,0,0,0,8,2,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2021\5\15/Emily_Boyd.png,5.75,-1,1996-07-25,nat1
-pl64,Alyssa Naeher,tm11,lg1,pos4,1,0,0,0,0,0,0,77,3,47,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Alyssa_Naeher_001.jpeg,5.75,150,1988-04-20,nat1
-pl35,Casey Murphy,tm12,lg1,pos4,1,0,0,0,0,0,0,42,8,20,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Casey_Murphy.jpeg,6.08,159,1996-04-25,nat1
-pl207,Marisa Bova,tm12,lg1,pos4,44,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Marisa_Bova.jpeg,6.17,-1,2000-08-06,nat1
-pl241,Katelyn Rowland,tm12,lg1,pos4,-1,0,0,0,0,0,0,7,1,2,,5.92,-1,1994-03-16,nat1
-pl3,Christine Sinclair,tm1,lg1,pos1,12,3,1,0,0,27,10,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Christine_Sinclair_001.jpeg,5.75,148,1983-06-12,nat2
-pl78,Nichelle Prince,tm2,lg1,pos1,8,0,2,0,0,8,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Nichelle_Prince_002.jpeg,5.33,117,1995-02-19,nat2
-pl307,Amanda Allen,tm6,lg1,pos1,29,0,0,0,0,1,0,0,0,0,,5.33,-1,2005-02-21,nat2
-pl144,Jordyn Huitema,tm7,lg1,pos1,9,5,0,1,0,33,13,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jordyn_Huitema_001.jpeg,5.92,152,2001-05-08,nat2
-pl68,Allysha Chapman,tm2,lg1,pos3,2,0,0,1,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\25/Allysha_Lyn_Chapman.png,5.25,121,1989-01-25,nat2
-pl103,Gabby Carle,tm9,lg1,pos3,14,0,1,2,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Gabrielle_Carle_002.jpeg,5.5,115,1998-10-12,nat2
-pl276,Bianca St. Georges,tm11,lg1,pos3,22,4,1,3,0,33,14,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Bianca_St_Georges_001.jpeg,5.5,-1,1997-07-28,nat2
-pl315,Sydney Collins,tm12,lg1,pos3,18,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Sydney_Collins.jpeg,5.67,-1,1999-09-08,nat2
-pl2,Sophie Schmidt,tm2,lg1,pos2,13,0,0,3,0,17,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\25/Sophie_Diana_Schmidt.png,5.67,157,1988-06-28,nat2
-pl34,Jordyn Listro,tm6,lg1,pos2,19,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jordyn_Listro_001.jpeg,5.42,119,1995-08-10,nat2
-pl48,Quinn,tm7,lg1,pos2,5,1,1,1,0,3,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Quinn_1_1.PNG,5.75,146,1995-08-11,nat2
-pl92,Victoria Pickett,tm12,lg1,pos2,99,1,0,0,0,5,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Victoria_Pickett_001.jpeg,5.5,-1,1996-08-12,nat2
-pl29,Kailen Sheridan,tm5,lg1,pos4,1,0,0,0,1,0,0,55,8,18,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Kailen_Sheridan_001.jpeg,5.75,150,1995-07-16,nat2
-pl6,María Sánchez,tm2,lg1,pos1,7,4,4,2,0,29,11,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Maria_Sanchez_002.jpeg,5.42,-1,1996-02-20,nat5
-pl264,Diana Ordoñez,tm2,lg1,pos1,11,3,0,0,0,33,11,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Diana_Ordonez_002.jpeg,5.92,-1,2001-09-26,nat5
-pl265,Scarlett Camberos,tm10,lg1,pos1,15,0,3,0,0,22,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/camberos.jpg,5.5,137,2000-11-20,nat5
-pl263,Reyna Reyes,tm1,lg1,pos3,2,1,0,0,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/USATSI_20396569.jpg,5.42,-1,2001-02-16,nat5
-pl61,Sabrina Flores,tm8,lg1,pos3,15,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Sabrina_Flores_001.jpeg,5.25,-1,1996-01-31,nat5
-pl72,Emily Alvarado,tm2,lg1,pos4,-1,0,0,0,0,0,0,0,0,0,,5.75,-1,1998-06-09,nat5
-pl5,Nadia Nadim,tm3,lg1,pos1,10,1,0,0,0,14,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Nadia_Nadim_1.png,5.75,-1,1988-01-02,nat4
-pl230,Rikke Marie Madsen,tm12,lg1,pos1,17,1,1,0,0,6,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Rilke_Madsen.jpeg,5.67,128,1997-08-09,nat4
-pl232,Mille Gejl,tm12,lg1,pos1,22,2,1,2,0,11,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/mille.jpg,5.75,128,1999-09-23,nat4
-pl146,Stine Ballisager,tm4,lg1,pos3,-1,0,0,0,0,1,0,0,0,0,,5.58,139,1994-01-03,nat4
-pl104,Thembi Kgatlana,tm3,lg1,pos1,11,2,1,3,0,29,7,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Jordan_Baggett_002.jpeg,5.08,108,1996-05-02,nat20
-pl234,Uchenna Kanu,tm3,lg1,pos1,29,0,0,1,0,15,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/kanu.jpg,5.75,117,1997-06-20,nat13
-pl58,Ifeoma Onumonu,tm8,lg1,pos1,25,0,1,3,0,7,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Ifeoma_Onumonu_001.jpeg,5.58,110,1994-02-25,nat13
-pl81,Michelle Alozie,tm2,lg1,pos3,22,4,1,1,1,28,9,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Michelle_Alozie_002.jpeg,5.58,-1,1997-04-28,nat13
-pl143,Mimmi Larsson,tm4,lg1,pos1,9,2,2,0,0,15,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Mimi_Larsson.jpeg,5.5,141,1994-04-09,nat8
-pl11,Sofia Jakobsson,tm5,lg1,pos1,10,2,1,2,0,13,7,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Sofia_Jakobsson_001.jpeg,5.75,132,1990-04-23,nat8
-pl98,Kyra Carusa,tm5,lg1,pos1,19,2,0,0,0,7,4,0,0,0,,5.58,146,1995-11-14,nat14
-pl294,Sinead Farrelly,tm8,lg1,pos2,33,0,1,4,0,6,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Sinead_Farrelly_001.jpeg,5.42,119,1989-11-16,nat14
-pl84,Marissa Sheva,tm9,lg1,pos2,25,0,0,1,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Marissa_Sheva_002.jpeg,5.33,-1,1997-04-22,nat14
-pl66,Denise O'Sullivan,tm12,lg1,pos2,10,1,1,3,0,11,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Denise_OSullivan.jpeg,5.33,117,1994-02-04,nat14
-pl9,Marta,tm6,lg1,pos1,10,3,4,1,0,30,13,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Marta_001.jpeg,5.33,128,1986-02-19,nat7
-pl190,Adriana,tm6,lg1,pos1,9,6,4,2,0,55,23,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Adriana_001.jpeg,5.42,117,1996-11-17,nat7
-pl313,Luany,tm7,lg1,pos1,19,0,0,0,0,0,0,0,0,0,,5.42,-1,2003-02-03,nat7
-pl223,Kerolin,tm12,lg1,pos1,9,10,3,3,0,55,21,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Kerolin_Nicoli.jpeg,5.58,117,1999-11-17,nat7
-pl292,Lauren,tm4,lg1,pos3,78,0,0,0,0,0,0,0,0,0,,5.83,141,2002-09-13,nat7
-pl10,Rafaelle,tm6,lg1,pos3,4,1,0,1,0,7,4,0,0,0,,5.75,150,1991-06-18,nat7
-pl305,Reiss,tm6,lg1,pos3,30,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\5\17/USATSI_20361067_168397606_lowres.jpg,5.5,-1,1999-12-09,nat7
-pl293,Bruninha,tm8,lg1,pos3,3,2,0,2,0,4,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Bruninha_002.jpeg,5.25,119,2002-06-16,nat7
-pl69,Andressa,tm2,lg1,pos2,77,1,0,0,0,9,3,0,0,0,,5.5,130,1992-11-10,nat7
-pl288,Ary Borges,tm3,lg1,pos2,8,1,0,4,0,32,10,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Ary_Borges_002.jpeg,5.5,130,1999-12-28,nat7
-pl105,Debinha,tm4,lg1,pos2,99,9,2,1,0,40,17,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Debinha_Oliveira.jpeg,5.17,117,1991-10-20,nat7
-pl284,Angelina,tm7,lg1,pos2,6,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Angelina_001.jpeg,5.25,128,2000-01-26,nat7
-pl283,Julia Bianchi,tm11,lg1,pos2,5,0,5,3,0,15,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Julia_Bianchi_001.jpeg,5.5,130,1997-10-07,nat7
-pl229,Mariana Larroquette,tm6,lg1,pos1,7,1,0,0,0,2,1,0,0,0,,5.42,119,1992-10-24,nat24
-pl304,Haley Bugeja,tm6,lg1,pos1,7,0,0,0,0,0,0,0,0,0,,,-1,2004-05-05,nat30
-pl149,Esther González,tm8,lg1,pos1,9,2,0,1,0,15,7,0,0,0,,5.42,119,1992-12-08,nat16
-pl73,Celia Jiménez,tm6,lg1,pos3,13,0,0,0,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Celia_001.jpeg,5.58,-1,1995-06-20,nat16
-pl274,Maitane Lopez,tm8,lg1,pos2,77,1,0,0,0,3,2,0,0,0,,5.75,132,1995-03-13,nat16
-pl186,Ouleymata Sarr,tm9,lg1,pos1,-1,1,1,1,0,9,2,0,0,0,,5.75,-1,1995-10-08,nat9
-pl134,Clarisse Le Bihan,tm10,lg1,pos1,29,1,4,2,0,15,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Clarisse_Le_Bihan_001.jpeg,5.67,-1,1994-12-14,nat9
-pl71,Annaïg Butel,tm9,lg1,pos3,-1,0,0,2,0,1,0,0,0,0,,5.5,110,1992-02-15,nat9
-pl67,Claire Lavogez,tm4,lg1,pos2,94,0,0,0,0,1,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\11\29/Claire_Lavogez.png,5.67,139,1994-06-18,nat9
-pl185,Ines Jaurena,tm9,lg1,pos2,7,0,1,1,0,5,1,0,0,0,,5.25,121,1991-05-14,nat9
-pl18,Amandine Henry,tm10,lg1,pos2,26,0,0,0,0,3,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\players\headshot/3c765kc3b4cmgie0qf84jh1hx.png,5.58,126,1989-09-28,nat9
-pl271,Nicole Douglas,tm9,lg1,pos1,17,0,0,0,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Nicole_Douglas_002.jpeg,,-1,2000-07-31,nat21
-pl124,Katie Johnson,tm10,lg1,pos2,33,3,1,3,0,18,10,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Katie_Johnson_001.jpeg,5.75,-1,2002-12-18,nat21
-pl299,Anna Moorhouse,tm6,lg1,pos4,21,0,0,0,1,0,0,70,6,22,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Anna_Moorhouse_001.jpeg,,-1,1995-03-30,nat21
-pl314,Riley Tanner,tm9,lg1,pos1,27,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Riley_Tanner_004.jpeg,5.58,-1,1999-10-15,nat31
-pl82,Claire Emslie,tm10,lg1,pos1,10,3,4,0,0,31,8,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Claire_Emslie_001.jpeg,5.58,-1,1994-03-08,nat18
-pl225,Jun Endo,tm10,lg1,pos1,18,2,2,0,0,15,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Jun_Endo_001.jpeg,5.5,119,2000-05-24,nat11
-pl22,Yuki Nagasato,tm11,lg1,pos1,7,3,2,2,0,10,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Yuki_Nagasato_002.jpeg,5.5,130,1987-07-15,nat11
-pl324,Manaka Matsukubo,tm12,lg1,pos1,34,1,0,1,0,8,3,0,0,0,,5.08,-1,2004-07-28,nat11
-pl194,Hina Sugita,tm1,lg1,pos2,8,5,3,2,0,23,10,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Hina_Sugita_001.jpeg,5.33,115,1997-01-31,nat11
-pl193,Narumi Miura,tm12,lg1,pos2,6,1,3,0,0,17,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/USATSI_20309113.jpg,5.08,95,1997-07-03,nat11
-pl233,Cheyna Matthews,tm11,lg1,pos1,20,1,1,1,0,7,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Cheyna_Matthews_001.jpeg,5.75,139,1993-11-10,nat12
-pl26,Havana Solaun,tm2,lg1,pos2,6,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Havana_Solaun_002.jpeg,5.83,128,1993-02-23,nat12
-pl83,Natalia Kuikka,tm1,lg1,pos3,14,1,2,3,0,14,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Natalia_Kuikka_001.jpeg,5.5,-1,1995-12-01,nat19
-pl231,Elli Pikkujamsa,tm3,lg1,pos3,4,1,0,1,1,5,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/USATSI_20396699_93.jpg,,-1,1999-10-24,nat19
-pl4,Abby Erceg,tm3,lg1,pos3,20,2,0,1,0,15,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Abby_Erceg_002.jpeg,5.83,150,1989-11-20,nat3
-pl17,Ali Riley,tm10,lg1,pos3,5,1,0,3,0,6,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Ali_Riley_002.jpeg,5.33,126,1987-10-30,nat3
-pl235,Estelle Johnson,tm12,lg1,pos3,24,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Estelle_Johnson.jpeg,5.5,-1,1988-07-21,nat25
-pl20,Raquel Rodríguez,tm1,lg1,pos2,11,1,0,1,0,7,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Rocky_Rodriguez_001.jpeg,5.42,119,1993-10-28,nat10
-pl272,Isabel Dehakiz,tm1,lg1,pos2,50,0,0,0,0,0,0,0,0,0,,5.42,-1,2000-07-19,nat27
-pl141,Sarah Puntigam,tm2,lg1,pos2,17,0,0,1,0,3,0,0,0,0,,5.67,-1,1992-10-13,nat22
-pl281,Bárbara Olivieri,tm2,lg1,pos2,15,0,0,2,0,5,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Barbara_Olivieri_002.jpeg,5.42,121,2002-02-24,nat28
-pl70,Wang Shuang,tm3,lg1,pos2,77,2,2,2,0,27,9,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Wang_Shuang_002.jpeg,5.42,128,1995-01-23,nat15
-pl147,Alex Chidiac,tm3,lg1,pos2,27,0,0,0,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Alex_Chidiac_002.jpeg,5.17,115,1999-01-15,nat6
-pl8,Emily van Egmond,tm5,lg1,pos2,5,0,0,2,0,9,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Emily_Van_Egmond_001.jpeg,5.75,152,1993-07-12,nat6
-pl268,Rebecca Holloway,tm3,lg1,pos2,25,0,1,2,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Rebecca_Holloway_002.jpeg,5.5,-1,1995-08-25,nat17
-pl74,Jordan Thompson,tm9,lg1,pos2,37,0,0,0,0,0,0,0,0,0,,5.75,141,1997-01-03,nat17
-pl148,Jessica Fishlock,tm7,lg1,pos2,10,3,0,2,0,33,8,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jess_Fishlock_001.jpeg,5.17,119,1987-01-14,nat23
-pl302,Jillienne Aguilera,tm11,lg1,pos2,14,0,0,0,0,4,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Jill_Aguilera_002.jpeg,5.58,-1,1998-01-05,nat29
-pl244,Didi Haracic,tm10,lg1,pos4,13,0,0,3,0,0,0,55,3,27,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Didi_Haracic_001.jpeg,5.75,-1,1992-04-12,nat26
+player_id,player_name,team_id,position_id,jersey_number,goals,assists,yellow_cards,red_cards,shots,shots_on_goal,saves,clean_sheets,goals_against,photo_url,height_(ft),weight_(lbs),birthdate,nationality_id
+pl1,Sophia Smith,tm1,pos1,9,11,5,2,0,75,39,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Sophia_Smith_001.jpeg,5.5,121,2000-08-10 00:00:00,nat1
+pl157,Hannah Betfort,tm1,pos1,33,2,0,0,0,12,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Hannah_Betfort_001.jpeg,5.83,-1,1999-01-04 00:00:00,nat1
+pl267,Izzy D'Aquila,tm1,pos1,24,0,0,0,0,16,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Izzy_DAquila_001.jpeg,5.58,-1,2001-09-08 00:00:00,nat1
+pl301,Natalie Beckman,tm1,pos1,45,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Natalie_Beckman_001.jpeg,5.17,-1,2000-03-25 00:00:00,nat1
+pl154,Ryan Gareis,tm2,pos1,21,0,0,0,0,5,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Ryan_Gareis_002.jpeg,5.58,-1,1998-11-13 00:00:00,nat1
+pl203,Cameron Tucker,tm2,pos1,39,0,0,1,0,7,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Cameron_Tucker_002.jpeg,5.75,-1,1999-07-15 00:00:00,nat1
+pl94,Paige Monaghan,tm3,pos1,5,3,0,1,0,18,11,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Paige_Monaghan_002.jpeg,5.58,-1,1996-11-13 00:00:00,nat1
+pl138,Jessica McDonald,tm3,pos1,14,0,0,0,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jessica_McDonald_002.jpeg,6.0,-1,1988-02-28 00:00:00,nat1
+pl167,Maddie Pokorny,tm3,pos1,17,0,1,0,0,5,2,0,0,0,N/A,0.0,-1,1996-11-24 00:00:00,nat1
+pl173,Emina Ekic,tm3,pos1,13,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Emina_Ekic_1.png,5.33,-1,1999-06-06 00:00:00,nat1
+pl275,Kirsten Davis,tm3,pos1,22,4,1,1,0,38,13,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Kirsten_Davis_002.jpeg,0.0,-1,1998-09-08 00:00:00,nat1
+pl220,Alexa Spaanstra,tm4,pos1,77,1,1,0,0,15,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Alexa_Spaanstra.jpeg,5.42,-1,2000-02-01 00:00:00,nat1
+pl242,Kristen Hamilton,tm4,pos1,25,2,0,1,0,14,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Kristen_Hamilton.jpeg,5.33,-1,1992-04-17 00:00:00,nat1
+pl258,Cecelia Kizer,tm4,pos1,5,6,2,0,0,30,14,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Cece_Kizer.jpeg,5.67,128,1997-08-07 00:00:00,nat1
+pl290,Michelle Cooper,tm4,pos1,17,3,1,5,0,37,17,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Michelle_Cooper.jpeg,5.25,-1,2002-12-04 00:00:00,nat1
+pl12,Alex Morgan,tm5,pos1,13,6,4,0,0,47,21,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\27/Alexandra_Morgan_Carrasco_1.PNG,5.58,137,1989-07-02 00:00:00,nat1
+pl42,Makenzy Doniak,tm5,pos1,15,3,2,1,0,27,13,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Makenzy_Doniak_001.jpeg,5.67,-1,1994-02-25 00:00:00,nat1
+pl140,Rachel Hill,tm5,pos1,3,0,0,3,0,9,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Rachel_Hill_001.jpeg,5.42,-1,1995-04-17 00:00:00,nat1
+pl153,Amirah Ali,tm5,pos1,7,2,0,1,0,15,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Amirah_Ali_001.jpeg,5.67,-1,1998-12-07 00:00:00,nat1
+pl308,Jaedyn Shaw,tm5,pos1,11,5,3,2,0,38,16,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\11\28/Jaedyn_Shaw.png,5.5,-1,2004-11-20 00:00:00,nat1
+pl321,Melanie Barcenas,tm5,pos1,25,0,1,0,0,6,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\5\5/Melanie_Barcenas.png,5.33,-1,2007-10-30 00:00:00,nat1
+pl199,Summer Yates,tm6,pos1,28,0,0,0,0,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Summer_Yates_001.jpeg,0.0,-1,2000-06-17 00:00:00,nat1
+pl217,Messiah Bright,tm6,pos1,23,6,0,2,0,38,12,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Messiah_Bright_001.jpeg,0.0,-1,2000-01-12 00:00:00,nat1
+pl13,Megan Rapinoe,tm7,pos1,15,2,5,2,0,32,12,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Megan_Rapinoe_001.jpeg,5.5,130,1985-07-05 00:00:00,nat1
+pl44,Veronica Latsko,tm7,pos1,24,4,2,2,0,16,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Veronica_Latsko_001.jpeg,5.67,-1,1995-12-12 00:00:00,nat1
+pl112,Tziarra King,tm7,pos1,23,0,0,1,0,9,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Tziarra_King_001.jpeg,5.75,-1,1998-08-24 00:00:00,nat1
+pl162,Elyse Bennett,tm7,pos1,34,2,2,1,0,24,10,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Elyse_Bennett_001.jpeg,5.83,-1,1999-12-27 00:00:00,nat1
+pl236,Bethany Balcer,tm7,pos1,8,6,1,0,0,35,13,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Bethany_Balcer_001.jpeg,5.75,-1,1997-03-07 00:00:00,nat1
+pl54,Lynn Williams,tm8,pos1,10,7,2,1,0,76,34,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Lynn_Williams_001.jpeg,5.67,126,1993-05-21 00:00:00,nat1
+pl87,Midge Purce,tm8,pos1,23,3,2,4,0,27,14,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\28/Margaret_Purce.png,5.42,-1,1995-09-18 00:00:00,nat1
+pl192,Cyera Hintzen,tm8,pos1,30,0,0,0,0,0,0,0,0,0,N/A,0.0,-1,1997-10-28 00:00:00,nat1
+pl254,Katie Stengel,tm8,pos1,-1,2,0,1,0,6,4,0,0,0,N/A,5.75,-1,1992-02-29 00:00:00,nat1
+pl37,Ashley Hatch,tm9,pos1,33,9,2,3,0,54,24,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Ashley_Hatch_002.jpeg,5.75,-1,1995-05-25 00:00:00,nat1
+pl150,Civana Kuhlmann,tm9,pos1,20,0,0,0,0,3,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/USATSI_20237428.jpg,5.5,-1,1999-04-14 00:00:00,nat1
+pl177,Tara McKeown,tm9,pos1,9,1,1,4,0,19,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Tara_McKeown_002.jpeg,5.58,-1,1999-07-02 00:00:00,nat1
+pl209,Ashley Sanchez,tm9,pos1,10,5,1,0,0,39,16,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Ashley_Sanchez_002.jpeg,5.33,117,1999-03-16 00:00:00,nat1
+pl218,Lena Silano,tm9,pos1,24,0,1,0,0,8,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Lina_Silano_002.jpeg,5.58,-1,2000-02-28 00:00:00,nat1
+pl286,Trinity Rodman,tm9,pos1,2,5,2,3,0,56,29,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Trinity_Rodman_002.jpeg,5.58,128,2002-05-20 00:00:00,nat1
+pl21,Sydney Leroux,tm10,pos1,2,1,0,0,0,13,8,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Sidney_Leroux_001.jpeg,5.58,-1,1990-05-07 00:00:00,nat1
+pl28,Simone Charley,tm10,pos1,7,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Simone_Charley_001.jpeg,5.67,-1,1995-02-04 00:00:00,nat1
+pl260,Jasmyne Spencer,tm10,pos1,3,1,0,1,0,13,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Jasmyne_Spencer_001.jpeg,5.08,-1,1990-08-27 00:00:00,nat1
+pl100,Mallory Swanson,tm11,pos1,9,1,0,0,0,9,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Mallory_Swanson_001.jpeg,5.33,117,1998-04-29 00:00:00,nat1
+pl115,Ella Stevens,tm11,pos1,8,4,1,1,0,18,8,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Ella_Stevens_002.jpeg,5.67,-1,1997-12-11 00:00:00,nat1
+pl172,Jenna Bike,tm11,pos1,24,0,0,2,0,5,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Jenna_Bike_002.jpeg,5.5,-1,1998-02-02 00:00:00,nat1
+pl206,Sarah Griffith,tm11,pos1,15,0,1,0,0,8,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Sarah_Griffith_001.jpeg,5.33,-1,1999-04-30 00:00:00,nat1
+pl216,Penelope Hocking,tm11,pos1,55,3,1,3,0,33,12,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Penelope_Hocking_002.jpeg,5.42,-1,1999-12-29 00:00:00,nat1
+pl295,Ava Cook,tm11,pos1,25,3,0,2,0,17,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Ava_Cook_001.jpeg,5.83,-1,1998-10-03 00:00:00,nat1
+pl318,Allyson Schlegel,tm11,pos1,34,2,1,0,0,4,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Ally_Schlegel_001.jpeg,5.58,-1,2000-02-07 00:00:00,nat1
+pl43,Brittany Ratcliffe,tm12,pos1,11,0,0,0,0,9,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Brittany_Ratcliffe.jpeg,5.33,-1,1994-02-07 00:00:00,nat1
+pl165,Haley Hopkins,tm12,pos1,5,1,1,0,0,13,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/haley.jpg,0.0,-1,1998-12-21 00:00:00,nat1
+pl204,Olivia Wingate,tm12,pos1,20,0,2,0,0,13,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Olivia_Wingate.jpeg,0.0,-1,2000-02-20 00:00:00,nat1
+pl237,Tyler Lussi,tm12,pos1,14,5,0,3,0,25,11,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Tyler_Lussi.jpeg,5.58,-1,1995-01-26 00:00:00,nat1
+pl16,Becky Sauerbrunn,tm1,pos3,4,0,0,0,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Becky_Sauerbrunn.png,5.58,139,1985-06-06 00:00:00,nat1
+pl23,Meghan Klingenberg,tm1,pos3,25,0,3,2,0,9,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Meghan_Klingenberg_001.jpeg,5.17,126,1988-08-02 00:00:00,nat1
+pl32,Kelli Hubly,tm1,pos3,20,1,0,4,1,10,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Kelli_Hubly_001.jpeg,5.75,-1,1994-08-09 00:00:00,nat1
+pl97,Tegan McGrady,tm1,pos3,29,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Tegan_McGrady_001.jpeg,5.5,-1,1997-10-11 00:00:00,nat1
+pl130,Meaghan Nally,tm1,pos3,39,0,0,1,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Meaghan_Nally_001.jpeg,5.58,-1,1998-06-30 00:00:00,nat1
+pl137,Emily Menges,tm1,pos3,5,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Emily_Menges_001.jpeg,5.58,-1,1992-07-28 00:00:00,nat1
+pl60,Katie Naughton,tm2,pos3,25,0,0,0,1,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Katie_Lind_002.jpeg,5.83,-1,1994-02-15 00:00:00,nat1
+pl91,Natalie Jacobs,tm2,pos3,4,0,0,4,1,5,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Natalie_Jacobs_002.jpeg,5.67,-1,1997-08-16 00:00:00,nat1
+pl123,Ally Prisock,tm2,pos3,23,1,0,0,0,1,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Ally_Prisock_002.jpeg,5.67,-1,1997-01-18 00:00:00,nat1
+pl128,Courtney Petersen,tm2,pos3,5,0,0,1,0,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Courtney_Peters_002.jpeg,5.42,-1,1997-10-28 00:00:00,nat1
+pl200,Jyllissa Harris,tm2,pos3,37,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jyllissa_Harris_002.JPG,5.67,-1,2000-04-08 00:00:00,nat1
+pl243,Caprice Dydasco,tm2,pos3,3,0,1,3,0,9,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Caprice_Dydasco_002.jpeg,5.25,-1,1993-08-19 00:00:00,nat1
+pl266,Madelyn Desiano,tm2,pos3,31,0,0,0,0,1,0,0,0,0,N/A,5.5,-1,2000-02-18 00:00:00,nat1
+pl273,Lindsi Jennings,tm2,pos3,36,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\12/jennings.jpg,5.75,-1,1111-11-11,nat1
+pl53,Carson Pickett,tm3,pos3,16,0,0,3,0,13,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Carson_Pickett_002.jpeg,5.67,-1,1993-09-15 00:00:00,nat1
+pl109,Julia Lester,tm3,pos3,15,0,0,1,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Julia_Lester_002.jpeg,0.0,-1,1998-01-16 00:00:00,nat1
+pl278,Zaneta Wyne,tm3,pos3,3,0,0,0,0,0,0,0,0,0,N/A,5.5,128,1990-08-03 00:00:00,nat1
+pl7,Alexis Loera,tm4,pos3,22,0,3,1,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Alexis_Loera.jpeg,5.58,163,1999-06-19 00:00:00,nat1
+pl62,Elizabeth Ball,tm4,pos3,7,0,0,1,0,6,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Elizabeth_Ball.jpeg,5.5,-1,1995-10-19 00:00:00,nat1
+pl63,Mallory Weber,tm4,pos3,20,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Mallory_Weber.jpeg,5.5,-1,1994-04-04 00:00:00,nat1
+pl175,Jenna Winebrenner,tm4,pos3,19,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jenna_Winebrenner.jpeg,5.58,-1,1999-03-01 00:00:00,nat1
+pl183,Addisyn Merrick,tm4,pos3,26,0,0,0,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Addisyn_Merrick.jpeg,5.33,-1,1998-03-04 00:00:00,nat1
+pl187,Kate Del Fava,tm4,pos3,8,0,1,3,0,9,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Kate_Del_Fava.jpeg,5.67,-1,1998-07-23 00:00:00,nat1
+pl269,Croix Soto,tm4,pos3,23,0,0,0,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\9\14/Croix_Soto.png,5.83,-1,2001-01-02 00:00:00,nat1
+pl282,Gabrielle Robinson,tm4,pos3,24,0,0,2,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Gabrielle_Robinson.jpeg,5.67,-1,2001-06-18 00:00:00,nat1
+pl300,Isabel Rodriguez,tm4,pos3,18,3,2,3,0,7,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Isabel_Rodriguez.jpeg,5.42,-1,1999-04-13 00:00:00,nat1
+pl25,Christen Westphal,tm5,pos3,20,0,4,1,0,6,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Christen_Westphal_001.jpeg,5.5,-1,1993-09-02 00:00:00,nat1
+pl85,Kaleigh Riehl,tm5,pos3,18,0,0,1,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Kaleigh_Riehl_001.jpeg,5.67,-1,1996-10-21 00:00:00,nat1
+pl114,Mia Gyau,tm5,pos3,26,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Mia_Gyau_001.jpeg,5.33,-1,1998-06-22 00:00:00,nat1
+pl132,Abby Dahlkemper,tm5,pos3,2,1,0,0,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Abby_Dahlkemper_001.jpeg,5.58,-1,1993-05-13 00:00:00,nat1
+pl222,Chai Cortez,tm5,pos3,46,0,0,0,0,0,0,0,0,0,N/A,0.0,-1,1998-07-18 00:00:00,nat1
+pl224,Madison Pogarch,tm5,pos3,16,1,0,4,0,5,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Madison_Pogarch_001.jpeg,5.5,-1,1997-11-05 00:00:00,nat1
+pl227,Naomi Girma,tm5,pos3,4,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Naomi_Girma_001.jpeg,5.42,126,2000-06-14 00:00:00,nat1
+pl306,Cheyenne Shorts,tm5,pos3,-1,1,0,0,0,1,1,0,0,0,N/A,5.75,-1,1998-08-10 00:00:00,nat1
+pl90,Haley Hanson,tm6,pos3,2,1,0,4,0,15,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Haley_McCutcheon_001.jpeg,5.5,-1,1996-02-22 00:00:00,nat1
+pl145,Megan Oyster,tm6,pos3,5,0,0,3,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Megan_Montefusco_001.jpeg,5.67,-1,1992-09-03 00:00:00,nat1
+pl168,Emily Madril,tm6,pos3,6,0,0,2,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Emily_Madril_001.jpeg,0.0,-1,1999-07-01 00:00:00,nat1
+pl170,Kerry Abello,tm6,pos3,25,1,0,1,0,27,12,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Kerry_Abello_001.jpeg,0.0,-1,1999-09-17 00:00:00,nat1
+pl181,Caitlin Cosme,tm6,pos3,26,0,0,1,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\26/Caitlin_Cosme_1.PNG,0.0,-1,1999-01-19 00:00:00,nat1
+pl270,Kylie Strom,tm6,pos3,3,1,1,2,0,7,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Kylie_Strom_001.jpeg,5.67,-1,1992-03-18 00:00:00,nat1
+pl323,Brianna Martínez,tm6,pos3,32,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/martinez_headshot.jpg,0.0,-1,2000-04-22 00:00:00,nat1
+pl38,Emily Sonnett,tm7,pos3,2,0,1,4,0,9,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Emily_Sonnett_001.jpeg,5.58,137,1993-11-25 00:00:00,nat1
+pl99,Alana Cook,tm7,pos3,4,0,1,2,1,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Alana_Cook_001.jpeg,5.75,150,1997-04-11 00:00:00,nat1
+pl101,Lauren Barnes,tm7,pos3,3,0,1,1,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Lauren_Barnes_001.jpeg,5.42,-1,1989-05-31 00:00:00,nat1
+pl127,Phoebe McClernon,tm7,pos3,21,0,0,2,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Phoebe_McClernon_001.jpeg,5.58,-1,1997-12-13 00:00:00,nat1
+pl155,Alyssa Malonson,tm7,pos3,20,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Alyssa_Malonson_001.jpeg,5.25,-1,1999-04-09 00:00:00,nat1
+pl158,Ryanne Brown,tm7,pos3,22,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Ryanne_Brown_001.jpeg,5.67,-1,1999-01-21 00:00:00,nat1
+pl188,Sofia Huerta,tm7,pos3,11,1,2,2,0,9,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Sofia_Huerta_001.jpeg,5.67,139,1992-12-14 00:00:00,nat1
+pl198,Shae Holmes,tm7,pos3,25,0,0,0,0,1,0,0,0,0,N/A,0.0,-1,2000-03-08 00:00:00,nat1
+pl279,Samantha Hiatt,tm7,pos3,17,0,0,2,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Sam_Hiatt_001.jpeg,5.83,-1,1998-01-06 00:00:00,nat1
+pl14,Ali Krieger,tm8,pos3,11,0,0,1,0,3,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Ali_Krieger_001.jpeg,5.5,130,1984-07-28 00:00:00,nat1
+pl19,Kelley O'Hara,tm8,pos3,5,0,0,2,0,10,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Kelley_OHara_001.jpeg,5.42,128,1988-08-04 00:00:00,nat1
+pl47,Imani Dorsey,tm8,pos3,2,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Imani_Dorsey_001.jpeg,5.58,-1,1996-03-21 00:00:00,nat1
+pl50,Taylor Smith,tm8,pos3,20,1,1,1,0,11,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Taylor_Smith_001.jpeg,5.25,-1,1993-12-01 00:00:00,nat1
+pl86,Ellie Jean,tm8,pos3,21,0,0,1,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Ellie_Jean_001.jpeg,5.58,-1,1997-01-31 00:00:00,nat1
+pl108,Nealy Martin,tm8,pos3,14,0,1,1,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Nealy_Martin_001.jpeg,5.58,-1,1998-04-22 00:00:00,nat1
+pl122,Mandy Freeman,tm8,pos3,22,0,0,1,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\28/Mandy_Freeman.png,5.67,-1,1995-03-23 00:00:00,nat1
+pl135,Kristen Edmonds,tm8,pos3,12,0,0,0,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Kristen_Edmonds_001.jpeg,5.42,-1,1987-05-22 00:00:00,nat1
+pl80,Sam Staab,tm9,pos3,3,1,1,4,0,11,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Sam_Staab_002.jpeg,5.58,-1,1997-03-28 00:00:00,nat1
+pl120,Camryn Biegalski,tm9,pos3,30,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Camryn_Biegalski_002.jpeg,5.75,-1,1998-08-11 00:00:00,nat1
+pl253,Amber Brooks,tm9,pos3,22,0,0,1,0,4,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Amber_Brooks_002.jpeg,5.5,-1,1991-01-23 00:00:00,nat1
+pl40,Megan Reid,tm10,pos3,6,0,0,0,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Megan_Reid_001.jpeg,5.67,-1,1996-07-08 00:00:00,nat1
+pl51,Paige Nielsen,tm10,pos3,14,1,0,3,0,15,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Paige_Nielsen_001.jpeg,5.42,-1,1993-10-14 00:00:00,nat1
+pl111,M.A. Vignola,tm10,pos3,16,2,0,2,0,23,9,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Mary_Alice_Vignola_001.jpeg,5.5,-1,1998-02-11 00:00:00,nat1
+pl156,Madison Hammond,tm10,pos3,99,1,1,2,0,11,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Madison_Hammond_001.jpeg,5.75,-1,1997-11-15 00:00:00,nat1
+pl249,Sarah Gorden,tm10,pos3,11,0,0,1,0,5,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Sarah_Gorden_001.jpeg,5.33,-1,1992-09-13 00:00:00,nat1
+pl291,Kelsey Hill,tm10,pos3,36,0,0,0,0,0,0,0,0,0,N/A,0.0,-1,1111-11-11,nat1
+pl33,Arin Wright,tm11,pos3,3,1,0,1,0,11,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Arin_Wright_001.jpeg,5.58,130,1992-12-25 00:00:00,nat1
+pl88,Kayla Sharples,tm11,pos3,28,1,0,1,0,4,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Kayla_Sharples_001.jpeg,5.92,-1,1997-06-17 00:00:00,nat1
+pl110,Tatumn Milazzo,tm11,pos3,23,1,1,3,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Tatumn_Milazzo_002.jpeg,5.25,-1,1998-04-17 00:00:00,nat1
+pl118,Tierna Davidson,tm11,pos3,12,0,0,1,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Tierna_Davidson_001.jpeg,5.83,-1,1998-09-19 00:00:00,nat1
+pl126,Amanda Kowalski,tm11,pos3,31,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Amanda_Kowalski_001.jpeg,5.75,-1,1998-01-09 00:00:00,nat1
+pl131,Casey Krueger,tm11,pos3,6,0,2,0,0,9,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Casey_Krueger_001.jpeg,5.5,-1,1990-08-23 00:00:00,nat1
+pl30,Kaleigh Kurtz,tm12,pos3,3,0,1,2,0,8,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Kaleigh_Kurtz.jpeg,5.67,-1,1994-09-09 00:00:00,nat1
+pl49,Nikia Smith,tm12,pos3,21,0,0,0,0,0,0,0,0,0,N/A,0.0,-1,1111-11-11,nat1
+pl106,Malia Berkely,tm12,pos3,7,0,0,0,1,4,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Malia_Berkely.jpeg,5.67,-1,1998-02-13 00:00:00,nat1
+pl151,Kiara Pickett,tm12,pos3,23,0,1,2,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\28/Kiki_14.png,5.0,-1,1999-04-30 00:00:00,nat1
+pl176,Emily Fox,tm12,pos3,12,0,2,0,1,10,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Emily_Fox.jpeg,5.42,121,1998-07-05 00:00:00,nat1
+pl205,Sarah Clark,tm12,pos3,2,0,0,0,0,0,0,0,0,0,N/A,0.0,-1,1111-11-11,nat1
+pl257,Ryan Williams,tm12,pos3,13,0,2,3,0,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Ryan_Williams.jpeg,5.5,-1,1996-02-23 00:00:00,nat1
+pl93,Crystal Dunn,tm1,pos2,19,5,2,0,0,33,18,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Crystal_Dunn_001.jpeg,5.17,117,1992-07-03 00:00:00,nat1
+pl113,Taylor Porter,tm1,pos2,46,0,0,0,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Taylor_Porter_001.jpeg,5.67,-1,1997-10-29 00:00:00,nat1
+pl125,Michele Vasconcelos,tm1,pos2,15,1,0,0,0,11,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Michele_Vasconcelos_001.jpeg,5.42,-1,1994-05-11 00:00:00,nat1
+pl152,Gabby Provenzano,tm1,pos2,44,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Gabby_Provenzano_001.jpeg,5.42,-1,1999-08-07 00:00:00,nat1
+pl161,Morgan Weaver,tm1,pos2,22,7,4,1,0,72,24,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Morgan_Weaver_001.jpeg,5.83,-1,1997-10-18 00:00:00,nat1
+pl289,Olivia Moultrie,tm1,pos2,13,2,3,1,0,36,13,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Olivia_Moultrie_001.jpeg,5.58,-1,2005-09-17 00:00:00,nat1
+pl298,Samantha Coffey,tm1,pos2,17,0,8,1,0,14,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Sam_Coffey_001.jpeg,5.42,-1,1998-12-31 00:00:00,nat1
+pl27,Shea Groom,tm2,pos2,10,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Shea_Groom_002.jpeg,5.5,-1,1993-03-04 00:00:00,nat1
+pl76,Kelcie Hedge,tm2,pos2,17,0,0,0,0,0,0,0,0,0,N/A,5.58,-1,1997-09-19 00:00:00,nat1
+pl89,Marisa Viggiano,tm2,pos2,14,0,0,2,0,17,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Marisa_Viggiano_002.jpeg,5.33,-1,1997-02-05 00:00:00,nat1
+pl159,Joelle Anderson,tm2,pos2,29,1,0,4,0,24,8,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Joelle_Anderson_002.jpeg,0.0,-1,1998-10-06 00:00:00,nat1
+pl309,Sophie Hirst,tm2,pos2,30,1,0,0,0,5,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Sophie_Hirst_002.jpeg,0.0,-1,2000-02-25 00:00:00,nat1
+pl129,Taylor Aylmer,tm3,pos2,26,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\8\29/Taylor_Aylmer.jpg,5.67,-1,1998-09-23 00:00:00,nat1
+pl163,Parker Goins,tm3,pos2,21,1,0,0,0,5,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Parker_Goins_002.jpeg,0.0,-1,1998-12-08 00:00:00,nat1
+pl178,Savannah DeMelo,tm3,pos2,7,5,2,5,1,49,14,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Savannah_DeMelo_002.jpeg,5.5,159,1998-03-26 00:00:00,nat1
+pl195,Jaelin Howell,tm3,pos2,6,0,0,4,0,16,7,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jaelin_Howell_002.jpeg,5.67,-1,1999-11-21 00:00:00,nat1
+pl196,Kayla Fischer,tm3,pos2,9,0,1,1,0,16,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/fischer.jpg,5.67,-1,2000-01-05 00:00:00,nat1
+pl219,Lauren Milliet,tm3,pos2,2,0,1,2,0,5,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Lauren_Milliet_002.jpeg,5.08,-1,1996-12-01 00:00:00,nat1
+pl247,Jordan Baggett,tm3,pos2,19,1,0,0,0,2,1,0,0,0,N/A,5.5,-1,1996-10-28 00:00:00,nat1
+pl322,Riley Parker,tm3,pos2,-1,0,0,0,0,0,0,0,0,0,N/A,0.0,-1,2000-03-31 00:00:00,nat1
+pl41,Morgan Gautrat,tm4,pos2,2,0,0,1,0,4,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Morgan_Gautrat.jpeg,5.58,121,1993-02-26 00:00:00,nat1
+pl55,Lo'eau LaBonta,tm4,pos2,10,2,1,2,0,17,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Lo_Labonta.jpeg,5.08,-1,1993-03-18 00:00:00,nat1
+pl116,Hailie Mace,tm4,pos2,4,0,2,3,0,15,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Hailie_Mace.jpeg,5.58,-1,1997-03-24 00:00:00,nat1
+pl221,Chardonnay Curran,tm4,pos2,14,0,0,0,0,4,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Chardonnay_Curran.jpeg,5.33,-1,1999-08-18 00:00:00,nat1
+pl251,Vanessa Di Bernardo,tm4,pos2,16,0,2,1,0,19,7,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Vanessa_DiBernardo.jpeg,5.33,-1,1992-05-15 00:00:00,nat1
+pl316,Ryan Childers,tm4,pos2,6,0,0,1,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Rylan_Childers.jpeg,0.0,-1,2000-09-19 00:00:00,nat1
+pl24,Meggie Dougherty Howard,tm5,pos2,28,0,0,0,0,11,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\26/Meggie_Dougherty_Howard_1.PNG,5.42,-1,1995-07-27 00:00:00,nat1
+pl39,Danielle Colaprico,tm5,pos2,24,0,1,3,0,9,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Danielle_Colaprico_001A.jpeg,5.25,-1,1993-05-06 00:00:00,nat1
+pl45,Kristen McNabb,tm5,pos2,14,1,0,4,0,5,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Kristen_McNabb_001.jpeg,5.42,-1,1994-04-17 00:00:00,nat1
+pl119,Taylor Kornieck,tm5,pos2,22,1,0,4,0,18,7,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Taylor_Kornieck_001.jpeg,6.08,-1,1998-11-22 00:00:00,nat1
+pl201,Giovanna Demarco,tm5,pos2,12,0,0,0,0,0,0,0,0,0,N/A,5.58,-1,1999-07-09 00:00:00,nat1
+pl214,Kelsey Turnbow,tm5,pos2,6,0,1,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Kelse_Turnbow_001.jpeg,5.67,-1,1999-01-10 00:00:00,nat1
+pl228,Sierra Enge,tm5,pos2,8,2,0,1,0,4,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Sierra_Enge_001.jpeg,5.42,-1,2000-02-23 00:00:00,nat1
+pl303,Isabella Briede,tm5,pos2,23,1,0,0,0,5,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Belle_Briede_001.jpeg,5.5,-1,1998-10-03 00:00:00,nat1
+pl77,Ally Watt,tm6,pos2,11,1,1,1,0,25,12,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Ally_Watt_001.jpeg,0.0,-1,1997-03-12 00:00:00,nat1
+pl202,Mikayla Cluff,tm6,pos2,8,2,1,2,0,22,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Mikayla_Cluff_001.jpeg,5.67,-1,1999-02-25 00:00:00,nat1
+pl208,Viviana Villacorta,tm6,pos2,14,0,1,0,0,9,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Viviana_Villacorta_001.jpeg,5.58,-1,1999-02-02 00:00:00,nat1
+pl215,Julie Doyle,tm6,pos2,20,2,3,2,0,15,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Julie_Doyle_001.jpeg,5.83,-1,1998-08-30 00:00:00,nat1
+pl255,Erika Tymrak,tm6,pos2,15,0,3,0,0,10,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Erika_Tymrak_001.jpeg,5.42,-1,1991-08-07 00:00:00,nat1
+pl36,Rose Lavelle,tm7,pos2,16,0,1,0,0,8,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Rose_Lavelle_001.jpeg,5.33,117,1995-05-14 00:00:00,nat1
+pl117,Marley Canales,tm7,pos2,13,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Marley_Canales_001.jpeg,5.33,-1,1997-11-16 00:00:00,nat1
+pl174,Olivia Van der Jagt,tm7,pos2,33,1,0,0,0,9,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Olivia_Van_der_Jagt_001.jpeg,5.67,-1,1999-07-07 00:00:00,nat1
+pl211,Olivia Athens,tm7,pos2,12,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Olivia_Athens_001.jpeg,5.58,-1,1998-08-01 00:00:00,nat1
+pl250,Nikki Stanton,tm7,pos2,7,0,2,5,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Nikki_Stanton_001.jpeg,5.58,121,1990-10-26 00:00:00,nat1
+pl102,Allie Long,tm8,pos2,6,2,0,3,0,7,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Allie_Long_001_43.jpeg,5.67,128,1987-08-13 00:00:00,nat1
+pl182,Yazmeen Ryan,tm8,pos2,18,0,1,5,0,40,9,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Yazmeen_Ryan_001.jpeg,5.5,-1,1999-02-25 00:00:00,nat1
+pl189,McCall Zerboni,tm8,pos2,7,0,0,1,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/McCall_Zerboni_001.jpeg,5.33,-1,1986-12-13 00:00:00,nat1
+pl212,Delanie Sheehan,tm8,pos2,17,0,1,0,0,18,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Delanie_Sheehan_001.jpeg,5.5,-1,1999-01-13 00:00:00,nat1
+pl252,Kristie Mewis,tm8,pos2,19,0,1,0,0,24,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Kristie_Mewis_001.jpeg,5.58,139,1991-02-25 00:00:00,nat1
+pl259,Meleana Shim,tm8,pos2,13,0,0,0,0,3,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\9\14/Mana_Shim.png,5.33,-1,1991-09-25 00:00:00,nat1
+pl262,Jenna Nighswonger,tm8,pos2,32,3,0,4,0,30,10,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jenna_Nighswonger_001.jpeg,5.83,-1,2000-11-28 00:00:00,nat1
+pl57,Andi Sullivan,tm9,pos2,12,0,0,4,0,19,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Andi_Maureen_Sullivan_1_1.PNG,5.58,126,1995-12-20 00:00:00,nat1
+pl79,Bayley Feist,tm9,pos2,13,0,0,0,0,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Bayley_Feist_004.jpeg,5.58,-1,1997-03-14 00:00:00,nat1
+pl96,Dorian Bailey,tm9,pos2,19,0,2,1,0,4,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Dorian_Bailey_002.jpeg,5.25,-1,1997-01-28 00:00:00,nat1
+pl166,Madison Elwell,tm9,pos2,16,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Maddie_Elwell_002.jpeg,0.0,-1,1999-09-06 00:00:00,nat1
+pl246,Victoria Huster,tm9,pos2,23,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Tori_Huster_002.jpeg,5.42,128,1989-09-23 00:00:00,nat1
+pl319,Paige Metayer,tm9,pos2,26,3,1,0,1,17,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Paige_Metayer_002.jpeg,0.0,-1,2000-09-23 00:00:00,nat1
+pl320,Chloe Ricketts,tm9,pos2,39,0,0,1,0,3,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Chloe_Ricketts_002.jpeg,5.08,-1,2007-05-23 00:00:00,nat1
+pl31,Savannah McCaskill,tm10,pos2,9,3,3,4,0,36,17,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Savannah_McCaskill_001.jpeg,5.33,-1,1996-07-31 00:00:00,nat1
+pl65,Julie Ertz,tm10,pos2,8,1,0,1,0,8,2,0,0,0,N/A,5.58,132,1992-04-06 00:00:00,nat1
+pl95,Dani Weatherholt,tm10,pos2,17,0,1,2,0,14,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Dani_Weatherholt_001.jpeg,5.67,-1,1994-03-17 00:00:00,nat1
+pl180,Lily Nabet,tm10,pos2,28,0,0,1,0,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Lily_Nabet_001.jpeg,5.25,-1,1999-09-24 00:00:00,nat1
+pl197,Mackenzie Pluck,tm10,pos2,24,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Mackenzie_Pluck_001.jpeg,0.0,-1,2000-04-12 00:00:00,nat1
+pl248,Elizabeth Eddy,tm10,pos2,44,0,0,0,0,3,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Elizabeth_Eddy_002.jpeg,5.42,-1,1991-09-13 00:00:00,nat1
+pl311,Alyssa Thompson,tm10,pos2,21,4,1,0,0,26,8,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Alyssa_Thompson_001.jpeg,5.33,108,2004-11-07 00:00:00,nat1
+pl160,Addie McCain,tm11,pos2,13,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Addie_McCain_002.jpeg,5.75,-1,1999-08-28 00:00:00,nat1
+pl164,Taylor Malham,tm11,pos2,32,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Taylor_Malham_001.jpeg,5.83,-1,1999-05-20 00:00:00,nat1
+pl239,Cari Roccaro,tm11,pos2,4,1,0,2,0,10,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Cari_Roccaro_001.jpeg,5.5,-1,1994-07-18 00:00:00,nat1
+pl261,Sophie Jones,tm11,pos2,16,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Sophie_Jones_002.jpeg,5.42,-1,2001-07-17 00:00:00,nat1
+pl296,Samantha Fisher,tm11,pos2,2,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Samantha_Fisher_001.jpeg,5.5,-1,1999-08-26 00:00:00,nat1
+pl317,Sami Feller,tm11,pos2,29,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Sami_Feller_001.jpeg,5.83,-1,1111-11-11,nat1
+pl107,Clara Robbins,tm12,pos2,26,0,0,0,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Clara_Robbins.jpeg,5.58,-1,1998-12-09 00:00:00,nat1
+pl142,Brianna Pinto,tm12,pos2,8,1,0,2,0,8,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Brianna_Pinto.jpeg,5.42,-1,2000-05-24 00:00:00,nat1
+pl169,Frankie Tagliaferri,tm12,pos2,19,0,1,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Frankie_Tagliaferri.jpeg,5.58,-1,1999-01-18 00:00:00,nat1
+pl179,Tess Boade,tm12,pos2,28,1,2,0,0,15,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\26/Tess.png,5.33,-1,1999-02-03 00:00:00,nat1
+pl240,Meredith Speck,tm12,pos2,25,1,0,1,0,3,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Meredith_Speck.jpeg,5.25,-1,1993-02-01 00:00:00,nat1
+pl184,Shelby Hogan,tm1,pos4,18,0,0,0,0,0,0,1,0,2,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Shelby_Hogan_001.jpeg,5.92,-1,1998-05-10 00:00:00,nat1
+pl238,Bella Bixby,tm1,pos4,1,1,0,2,0,1,1,63,6,25,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Bella_Bixby_001.jpeg,6.0,-1,1995-11-20 00:00:00,nat1
+pl310,Lauren Kozal,tm1,pos4,-1,0,0,0,0,0,0,0,0,0,N/A,5.83,-1,2000-07-11 00:00:00,nat1
+pl56,Jane Campbell,tm2,pos4,1,0,0,0,0,0,0,83,8,17,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Jane_Campbell_002.jpeg,5.75,-1,1995-02-17 00:00:00,nat1
+pl191,Savannah Madden,tm2,pos4,35,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Savannah_Madden_002.jpeg,5.58,-1,1999-02-02 00:00:00,nat1
+pl121,Jordyn Bloomer,tm3,pos4,24,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Jordyn_Bloomer_1.png,0.0,-1,1997-10-14 00:00:00,nat1
+pl139,Katie Lund,tm3,pos4,1,0,0,0,0,0,0,80,6,22,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Katie_Lund_002.jpeg,6.08,-1,1996-11-27 00:00:00,nat1
+pl171,Hillary Beall,tm3,pos4,18,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Hillary_Beal_1.png,5.92,-1,1999-01-27 00:00:00,nat1
+pl287,Olivia Sekany,tm3,pos4,99,0,0,0,0,0,0,0,0,0,N/A,6.0,-1,1998-12-29 00:00:00,nat1
+pl52,Cassie Miller,tm4,pos4,38,0,0,1,0,0,0,29,4,13,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Cassie_Miller_1.png,5.92,-1,1995-04-28 00:00:00,nat1
+pl136,Adrianna Franch,tm4,pos4,21,0,0,1,0,0,0,39,1,21,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Adrianna_Franch.jpeg,5.75,-1,1990-11-12 00:00:00,nat1
+pl75,Shae Yanez,tm5,pos4,30,0,0,0,0,0,0,7,0,4,https://d2nkt8hgeld8zj.cloudfront.net\images\players\headshot/4x0c0fhtuohubcm7u16qzr2wa.png,5.67,-1,1997-05-22 00:00:00,nat1
+pl210,Lauren Brzykcy,tm5,pos4,17,0,0,0,0,0,0,0,0,0,N/A,5.83,-1,1999-11-08 00:00:00,nat1
+pl133,Carly Nelson,tm6,pos4,31,0,0,0,0,0,0,4,0,4,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Carly_Nelson_001.jpeg,0.0,-1,1998-02-11 00:00:00,nat1
+pl213,Mckinley Crone,tm6,pos4,40,0,0,0,0,0,0,0,0,0,N/A,0.0,-1,1998-10-20 00:00:00,nat1
+pl226,Claudia Dickey,tm7,pos4,30,0,0,0,0,0,0,19,2,5,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Claudia_Dickey_001.jpeg,5.83,-1,2000-01-06 00:00:00,nat1
+pl297,Lauren Ivory,tm7,pos4,18,0,0,1,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Laurel_Ivory_001.jpeg,5.75,-1,1999-08-28 00:00:00,nat1
+pl46,Abby Smith,tm8,pos4,4,0,0,0,0,0,0,45,4,15,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Abby_Smith_001.jpeg,5.75,-1,1993-10-04 00:00:00,nat1
+pl256,Michelle Betos,tm8,pos4,1,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Michelle_Betos_001.jpeg,5.75,-1,1988-02-20 00:00:00,nat1
+pl277,Mandy Haught,tm8,pos4,24,0,0,1,0,0,0,11,2,7,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Mandy_Haught_001.jpeg,5.75,-1,1998-11-03 00:00:00,nat1
+pl15,Nicole Barnhart,tm9,pos4,28,0,0,0,0,0,0,9,0,5,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Nicole_Barnhart_002.jpeg,5.83,161,1981-10-10 00:00:00,nat1
+pl245,Aubrey Kingsbury,tm9,pos4,1,0,0,0,0,0,0,50,4,23,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Aubrey_Kingsbury_002.jpeg,5.83,146,1991-11-20 00:00:00,nat1
+pl285,Lyza Bosselmann,tm9,pos4,18,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Liza_Bosselmann_002.jpeg,0.0,-1,2001-07-27 00:00:00,nat1
+pl280,Brittany Isenhour,tm10,pos4,1,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Brittany_Isenhour_001.jpeg,5.67,-1,1997-09-22 00:00:00,nat1
+pl312,Angelina Anderson,tm10,pos4,19,0,0,0,0,0,0,14,1,2,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Angelina_Anderson_001.jpeg,5.92,-1,2001-03-22 00:00:00,nat1
+pl59,Emily Boyd,tm11,pos4,21,0,0,0,0,0,0,8,2,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2021\5\15/Emily_Boyd.png,5.75,-1,1996-07-25 00:00:00,nat1
+pl64,Alyssa Naeher,tm11,pos4,1,0,0,0,0,0,0,77,3,47,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Alyssa_Naeher_001.jpeg,5.75,150,1988-04-20 00:00:00,nat1
+pl35,Casey Murphy,tm12,pos4,1,0,0,0,0,0,0,42,8,20,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Casey_Murphy.jpeg,6.08,159,1996-04-25 00:00:00,nat1
+pl207,Marisa Bova,tm12,pos4,44,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Marisa_Bova.jpeg,6.17,-1,2000-08-06 00:00:00,nat1
+pl241,Katelyn Rowland,tm12,pos4,-1,0,0,0,0,0,0,7,1,2,N/A,5.92,-1,1994-03-16 00:00:00,nat1
+pl3,Christine Sinclair,tm1,pos1,12,3,1,0,0,27,10,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Christine_Sinclair_001.jpeg,5.75,148,1983-06-12 00:00:00,nat2
+pl78,Nichelle Prince,tm2,pos1,8,0,2,0,0,8,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Nichelle_Prince_002.jpeg,5.33,117,1995-02-19 00:00:00,nat2
+pl307,Amanda Allen,tm6,pos1,29,0,0,0,0,1,0,0,0,0,N/A,5.33,-1,2005-02-21 00:00:00,nat2
+pl144,Jordyn Huitema,tm7,pos1,9,5,0,1,0,33,13,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jordyn_Huitema_001.jpeg,5.92,152,2001-05-08 00:00:00,nat2
+pl68,Allysha Chapman,tm2,pos3,2,0,0,1,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\25/Allysha_Lyn_Chapman.png,5.25,121,1989-01-25 00:00:00,nat2
+pl103,Gabby Carle,tm9,pos3,14,0,1,2,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Gabrielle_Carle_002.jpeg,5.5,115,1998-10-12 00:00:00,nat2
+pl276,Bianca St. Georges,tm11,pos3,22,4,1,3,0,33,14,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Bianca_St_Georges_001.jpeg,5.5,-1,1997-07-28 00:00:00,nat2
+pl315,Sydney Collins,tm12,pos3,18,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Sydney_Collins.jpeg,5.67,-1,1999-09-08 00:00:00,nat2
+pl2,Sophie Schmidt,tm2,pos2,13,0,0,3,0,17,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\25/Sophie_Diana_Schmidt.png,5.67,157,1988-06-28 00:00:00,nat2
+pl34,Jordyn Listro,tm6,pos2,19,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jordyn_Listro_001.jpeg,5.42,119,1995-08-10 00:00:00,nat2
+pl48,Quinn,tm7,pos2,5,1,1,1,0,3,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Quinn_1_1.PNG,5.75,146,1995-08-11 00:00:00,nat2
+pl92,Victoria Pickett,tm12,pos2,99,1,0,0,0,5,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Victoria_Pickett_001.jpeg,5.5,-1,1996-08-12 00:00:00,nat2
+pl29,Kailen Sheridan,tm5,pos4,1,0,0,0,1,0,0,55,8,18,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Kailen_Sheridan_001.jpeg,5.75,150,1995-07-16 00:00:00,nat2
+pl6,María Sánchez,tm2,pos1,7,4,4,2,0,29,11,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Maria_Sanchez_002.jpeg,5.42,-1,1996-02-20 00:00:00,nat5
+pl264,Diana Ordoñez,tm2,pos1,11,3,0,0,0,33,11,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Diana_Ordonez_002.jpeg,5.92,-1,2001-09-26 00:00:00,nat5
+pl265,Scarlett Camberos,tm10,pos1,15,0,3,0,0,22,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/camberos.jpg,5.5,137,2000-11-20 00:00:00,nat5
+pl263,Reyna Reyes,tm1,pos3,2,1,0,0,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/USATSI_20396569.jpg,5.42,-1,2001-02-16 00:00:00,nat5
+pl61,Sabrina Flores,tm8,pos3,15,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Sabrina_Flores_001.jpeg,5.25,-1,1996-01-31 00:00:00,nat5
+pl72,Emily Alvarado,tm2,pos4,-1,0,0,0,0,0,0,0,0,0,N/A,5.75,-1,1998-06-09 00:00:00,nat5
+pl5,Nadia Nadim,tm3,pos1,10,1,0,0,0,14,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\4\29/Nadia_Nadim_1.png,5.75,-1,1988-01-02 00:00:00,nat4
+pl230,Rikke Marie Madsen,tm12,pos1,17,1,1,0,0,6,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Rilke_Madsen.jpeg,5.67,128,1997-08-09 00:00:00,nat4
+pl232,Mille Gejl,tm12,pos1,22,2,1,2,0,11,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/mille.jpg,5.75,128,1999-09-23 00:00:00,nat4
+pl146,Stine Ballisager,tm4,pos3,-1,0,0,0,0,1,0,0,0,0,N/A,5.58,139,1994-01-03 00:00:00,nat4
+pl104,Thembi Kgatlana,tm3,pos1,11,2,1,3,0,29,7,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Jordan_Baggett_002.jpeg,5.08,108,1996-05-02 00:00:00,nat20
+pl234,Uchenna Kanu,tm3,pos1,29,0,0,1,0,15,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/kanu.jpg,5.75,117,1997-06-20 00:00:00,nat13
+pl58,Ifeoma Onumonu,tm8,pos1,25,0,1,3,0,7,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Ifeoma_Onumonu_001.jpeg,5.58,110,1994-02-25 00:00:00,nat13
+pl81,Michelle Alozie,tm2,pos3,22,4,1,1,1,28,9,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Michelle_Alozie_002.jpeg,5.58,-1,1997-04-28 00:00:00,nat13
+pl143,Mimmi Larsson,tm4,pos1,9,2,2,0,0,15,4,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Mimi_Larsson.jpeg,5.5,141,1994-04-09 00:00:00,nat8
+pl11,Sofia Jakobsson,tm5,pos1,10,2,1,2,0,13,7,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Sofia_Jakobsson_001.jpeg,5.75,132,1990-04-23 00:00:00,nat8
+pl98,Kyra Carusa,tm5,pos1,19,2,0,0,0,7,4,0,0,0,N/A,5.58,146,1995-11-14 00:00:00,nat14
+pl294,Sinead Farrelly,tm8,pos2,33,0,1,4,0,6,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Sinead_Farrelly_001.jpeg,5.42,119,1989-11-16 00:00:00,nat14
+pl84,Marissa Sheva,tm9,pos2,25,0,0,1,0,2,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Marissa_Sheva_002.jpeg,5.33,-1,1997-04-22 00:00:00,nat14
+pl66,Denise O'Sullivan,tm12,pos2,10,1,1,3,0,11,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Denise_OSullivan.jpeg,5.33,117,1994-02-04 00:00:00,nat14
+pl9,Marta,tm6,pos1,10,3,4,1,0,30,13,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Marta_001.jpeg,5.33,128,1986-02-19 00:00:00,nat7
+pl190,Adriana,tm6,pos1,9,6,4,2,0,55,23,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Adriana_001.jpeg,5.42,117,1996-11-17 00:00:00,nat7
+pl313,Luany,tm7,pos1,19,0,0,0,0,0,0,0,0,0,N/A,5.42,-1,2003-02-03 00:00:00,nat7
+pl223,Kerolin,tm12,pos1,9,10,3,3,0,55,21,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Kerolin_Nicoli.jpeg,5.58,117,1999-11-17 00:00:00,nat7
+pl292,Lauren,tm4,pos3,78,0,0,0,0,0,0,0,0,0,N/A,5.83,141,2002-09-13 00:00:00,nat7
+pl10,Rafaelle,tm6,pos3,4,1,0,1,0,7,4,0,0,0,N/A,5.75,150,1991-06-18 00:00:00,nat7
+pl305,Reiss,tm6,pos3,30,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\5\17/USATSI_20361067_168397606_lowres.jpg,5.5,-1,1999-12-09 00:00:00,nat7
+pl293,Bruninha,tm8,pos3,3,2,0,2,0,4,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\23/Bruninha_002.jpeg,5.25,119,2002-06-16 00:00:00,nat7
+pl69,Andressa,tm2,pos2,77,1,0,0,0,9,3,0,0,0,N/A,5.5,130,1992-11-10 00:00:00,nat7
+pl288,Ary Borges,tm3,pos2,8,1,0,4,0,32,10,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Ary_Borges_002.jpeg,5.5,130,1999-12-28 00:00:00,nat7
+pl105,Debinha,tm4,pos2,99,9,2,1,0,40,17,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Debinha_Oliveira.jpeg,5.17,117,1991-10-20 00:00:00,nat7
+pl284,Angelina,tm7,pos2,6,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Angelina_001.jpeg,5.25,128,2000-01-26 00:00:00,nat7
+pl283,Julia Bianchi,tm11,pos2,5,0,5,3,0,15,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Julia_Bianchi_001.jpeg,5.5,130,1997-10-07 00:00:00,nat7
+pl229,Mariana Larroquette,tm6,pos1,7,1,0,0,0,2,1,0,0,0,N/A,5.42,119,1992-10-24 00:00:00,nat24
+pl304,Haley Bugeja,tm6,pos1,7,0,0,0,0,0,0,0,0,0,N/A,0.0,-1,2004-05-05 00:00:00,nat30
+pl149,Esther González,tm8,pos1,9,2,0,1,0,15,7,0,0,0,N/A,5.42,119,1992-12-08 00:00:00,nat16
+pl73,Celia Jiménez,tm6,pos3,13,0,0,0,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Celia_001.jpeg,5.58,-1,1995-06-20 00:00:00,nat16
+pl274,Maitane Lopez,tm8,pos2,77,1,0,0,0,3,2,0,0,0,N/A,5.75,132,1995-03-13 00:00:00,nat16
+pl186,Ouleymata Sarr,tm9,pos1,-1,1,1,1,0,9,2,0,0,0,N/A,5.75,-1,1995-10-08 00:00:00,nat9
+pl134,Clarisse Le Bihan,tm10,pos1,29,1,4,2,0,15,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Clarisse_Le_Bihan_001.jpeg,5.67,-1,1994-12-14 00:00:00,nat9
+pl71,Annaïg Butel,tm9,pos3,-1,0,0,2,0,1,0,0,0,0,N/A,5.5,110,1992-02-15 00:00:00,nat9
+pl67,Claire Lavogez,tm4,pos2,94,0,0,0,0,1,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2022\11\29/Claire_Lavogez.png,5.67,139,1994-06-18 00:00:00,nat9
+pl185,Ines Jaurena,tm9,pos2,7,0,1,1,0,5,1,0,0,0,N/A,5.25,121,1991-05-14 00:00:00,nat9
+pl18,Amandine Henry,tm10,pos2,26,0,0,0,0,3,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\players\headshot/3c765kc3b4cmgie0qf84jh1hx.png,5.58,126,1989-09-28 00:00:00,nat9
+pl271,Nicole Douglas,tm9,pos1,17,0,0,0,0,4,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Nicole_Douglas_002.jpeg,0.0,-1,2000-07-31 00:00:00,nat21
+pl124,Katie Johnson,tm10,pos2,33,3,1,3,0,18,10,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Katie_Johnson_001.jpeg,5.75,-1,2002-12-18 00:00:00,nat21
+pl299,Anna Moorhouse,tm6,pos4,21,0,0,0,1,0,0,70,6,22,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Anna_Moorhouse_001.jpeg,0.0,-1,1995-03-30 00:00:00,nat21
+pl314,Riley Tanner,tm9,pos1,27,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Riley_Tanner_004.jpeg,5.58,-1,1999-10-15 00:00:00,nat31
+pl82,Claire Emslie,tm10,pos1,10,3,4,0,0,31,8,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Claire_Emslie_001.jpeg,5.58,-1,1994-03-08 00:00:00,nat18
+pl225,Jun Endo,tm10,pos1,18,2,2,0,0,15,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Jun_Endo_001.jpeg,5.5,119,2000-05-24 00:00:00,nat11
+pl22,Yuki Nagasato,tm11,pos1,7,3,2,2,0,10,5,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Yuki_Nagasato_002.jpeg,5.5,130,1987-07-15 00:00:00,nat11
+pl324,Manaka Matsukubo,tm12,pos1,34,1,0,1,0,8,3,0,0,0,N/A,5.08,-1,2004-07-28 00:00:00,nat11
+pl194,Hina Sugita,tm1,pos2,8,5,3,2,0,23,10,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Hina_Sugita_001.jpeg,5.33,115,1997-01-31 00:00:00,nat11
+pl193,Narumi Miura,tm12,pos2,6,1,3,0,0,17,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/USATSI_20309113.jpg,5.08,95,1997-07-03 00:00:00,nat11
+pl233,Cheyna Matthews,tm11,pos1,20,1,1,1,0,7,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Cheyna_Matthews_001.jpeg,5.75,139,1993-11-10 00:00:00,nat12
+pl26,Havana Solaun,tm2,pos2,6,0,0,0,0,1,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\22/Havana_Solaun_002.jpeg,5.83,128,1993-02-23 00:00:00,nat12
+pl83,Natalia Kuikka,tm1,pos3,14,1,2,3,0,14,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Natalia_Kuikka_001.jpeg,5.5,-1,1995-12-01 00:00:00,nat19
+pl231,Elli Pikkujamsa,tm3,pos3,4,1,0,1,1,5,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\7\13/USATSI_20396699_93.jpg,0.0,-1,1999-10-24 00:00:00,nat19
+pl4,Abby Erceg,tm3,pos3,20,2,0,1,0,15,6,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Abby_Erceg_002.jpeg,5.83,150,1989-11-20 00:00:00,nat3
+pl17,Ali Riley,tm10,pos3,5,1,0,3,0,6,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Ali_Riley_002.jpeg,5.33,126,1987-10-30 00:00:00,nat3
+pl235,Estelle Johnson,tm12,pos3,24,0,0,0,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\21/Estelle_Johnson.jpeg,5.5,-1,1988-07-21 00:00:00,nat25
+pl20,Raquel Rodríguez,tm1,pos2,11,1,0,1,0,7,2,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\17/Rocky_Rodriguez_001.jpeg,5.42,119,1993-10-28 00:00:00,nat10
+pl272,Isabel Dehakiz,tm1,pos2,50,0,0,0,0,0,0,0,0,0,N/A,5.42,-1,2000-07-19 00:00:00,nat27
+pl141,Sarah Puntigam,tm2,pos2,17,0,0,1,0,3,0,0,0,0,N/A,5.67,-1,1992-10-13 00:00:00,nat22
+pl281,Bárbara Olivieri,tm2,pos2,15,0,0,2,0,5,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Barbara_Olivieri_002.jpeg,5.42,121,2002-02-24 00:00:00,nat28
+pl70,Wang Shuang,tm3,pos2,77,2,2,2,0,27,9,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Wang_Shuang_002.jpeg,5.42,128,1995-01-23 00:00:00,nat15
+pl147,Alex Chidiac,tm3,pos2,27,0,0,0,0,2,1,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Alex_Chidiac_002.jpeg,5.17,115,1999-01-15 00:00:00,nat6
+pl8,Emily van Egmond,tm5,pos2,5,0,0,2,0,9,3,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\20/Emily_Van_Egmond_001.jpeg,5.75,152,1993-07-12 00:00:00,nat6
+pl268,Rebecca Holloway,tm3,pos2,25,0,1,2,0,0,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Rebecca_Holloway_002.jpeg,5.5,-1,1995-08-25 00:00:00,nat17
+pl74,Jordan Thompson,tm9,pos2,37,0,0,0,0,0,0,0,0,0,N/A,5.75,141,1997-01-03 00:00:00,nat17
+pl148,Jessica Fishlock,tm7,pos2,10,3,0,2,0,33,8,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\24/Jess_Fishlock_001.jpeg,5.17,119,1987-01-14 00:00:00,nat23
+pl302,Jillienne Aguilera,tm11,pos2,14,0,0,0,0,4,0,0,0,0,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Jill_Aguilera_002.jpeg,5.58,-1,1998-01-05 00:00:00,nat29
+pl244,Didi Haracic,tm10,pos4,13,0,0,3,0,0,0,55,3,27,https://d2nkt8hgeld8zj.cloudfront.net\images\2023\3\28/Didi_Haracic_001.jpeg,5.75,-1,1992-04-12 00:00:00,nat26
