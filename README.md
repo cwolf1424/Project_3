@@ -8,36 +8,36 @@ Data for this project was from the following source:
 Specific sections directly using additional sources listed below:
 
 --------------------------------------------------
-poc.ipynb
+grabbing-all_leagues.ipynb
 --------------------------------------------------
 
-The following section:
+--------------------------------------------------
+cleaning-all_leagues.ipynb
+--------------------------------------------------
 
-    SOME_SECTION
+The following syntax (used in multiple sections):
 
-Used the following source code:
+    leagues_df["league_id"] = ["lg" + str(league_id) for league_id in leagues_df["league_id"]]
 
-    SOME_CODE
+    split_heights = split_heights.str.split("'", n=1, expand=True)
 
-From:
+used the following lines of code from Kyle and Caleb's last group project, project 3:
 
-    SOME_URL
+    scat_ids = ["subcat" + str(scat_id) for scat_id in subcategory_ids]
+
+    contacts_df[["first_name","last_name"]] = contacts_df["name"].str.split(" ", n=1, expand=True)
+
+--------------------------------------------------
+quick_dbd-export.sql
+--------------------------------------------------
+
+Our schema layouts were created using quickDBD:
+
+    https://www.quickdatabasediagrams.com/
 
 --------------------------------------------------
 hosting.ipynb
 --------------------------------------------------
-
-The following section:
-
-    SOME_SECTION
-
-Used the following source code:
-
-    SOME_CODE
-
-From:
-
-    SOME_URL
 
 --------------------------------------------------
 site.html
@@ -77,30 +77,18 @@ Used the setup format from the leaflet challenge index.html file.
 style.css
 --------------------------------------------------
 
-The following section:
-
-    SOME_SECTION
-
-Used the following source code:
-
-    SOME_CODE
-
-From:
-
-    SOME_URL
-
 --------------------------------------------------
 logic.js
 --------------------------------------------------
 
-The following section:
+We used the following tool to build our table grid:
 
-    SOME_SECTION
+    https://gridjs.io/
 
-Used the following source code:
+--------------------------------------------------
+no_picture.png
+--------------------------------------------------
 
-    SOME_CODE
+We grabbed this image from the following location:
 
-From:
-
-    SOME_URL
+    https://www.nicepng.com/ourpic/u2y3a9e6t4o0a9w7_profile-picture-default-png/
