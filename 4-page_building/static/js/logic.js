@@ -168,7 +168,13 @@ function selectPlayerData(row, playerId) {
 
     d3.json(`http://127.0.0.1:8000/api/v1.0/player_data/${playerId}`).then(function(data) {
         let playerImg = d3.select('#playerPhoto')
-        playerImg.property('src', data[0]['photo_url']);
+        if (data[0]['photo_url'] == 'N/A') {
+            playerImg.property('src', '/static/img/no_picture.png')
+        }
+        else {
+            playerImg.property('src', data[0]['photo_url']);
+        }
+        
 
         d3.select('#playerBirthdate').text(data[0]['birthdate']);
         d3.select('#playerHeight').text(data[0]['height']);

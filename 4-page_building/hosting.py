@@ -48,6 +48,8 @@ def getLeagues():
             league
         FROM
             "Leagues"
+        ORDER BY
+            league
     '''
     league_df = getDataFrameFromDB(sql)
     league_df.loc[-1] = [-1, 'ALL']
@@ -76,6 +78,10 @@ def getTeamsForLeague(leagueId):
                 league_id = '{leagueId}'
         '''
 
+    sql += '''
+        ORDER BY
+            team
+    '''
     team_df = getDataFrameFromDB(sql)
     team_df.loc[-1] = [-1, 'ALL']
     team_df.index = team_df.index + 1
@@ -190,6 +196,13 @@ def getPlayerStats(leagueId, teamId, positionId):
                 sql += " AND "
             sql += f" pd.position_id = '{positionId}'"
 
+    sql += '''
+        ORDER BY
+            l.league,
+            t.team,
+            pd.player_name
+    '''
+    
     player_stats_df = getDataFrameFromDB(sql)
     player_stats_df.index = player_stats_df.index + 1
     player_stats_df = player_stats_df.sort_index()
