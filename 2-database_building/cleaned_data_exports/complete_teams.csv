@@ -1,0 +1,156 @@
+team_id,team,league_id
+tm1,Real Sociedad,lg1
+tm2,Villarreal,lg1
+tm3,Valencia,lg1
+tm4,Almería,lg1
+tm5,Mallorca,lg1
+tm6,Sevilla,lg1
+tm7,Athletic Club,lg1
+tm8,Rayo Vallecano,lg1
+tm9,Cádiz,lg1
+tm10,Atletico Madrid,lg1
+tm11,Granada,lg1
+tm12,Real Madrid,lg1
+tm13,Real Betis,lg1
+tm14,Celta Vigo,lg1
+tm15,Getafe,lg1
+tm16,Osasuna,lg1
+tm17,Girona,lg1
+tm18,Las Palmas,lg1
+tm19,Barcelona,lg1
+tm20,Alavés,lg1
+tm21,TSG Hoffenheim,lg2
+tm22,1. FC Union Berlin,lg2
+tm23,Borussia Dortmund,lg2
+tm24,Bayern Munich,lg2
+tm25,FC Cologne,lg2
+tm26,VfB Stuttgart,lg2
+tm27,Eintracht Frankfurt,lg2
+tm28,1. FC Heidenheim 1846,lg2
+tm29,RB Leipzig,lg2
+tm30,Borussia Monchengladbach,lg2
+tm31,SC Freiburg,lg2
+tm32,Mainz,lg2
+tm33,Bayer Leverkusen,lg2
+tm34,Werder Bremen,lg2
+tm35,VfL Bochum,lg2
+tm36,VfL Wolfsburg,lg2
+tm37,FC Augsburg,lg2
+tm38,SV Darmstadt 98,lg2
+tm39,Pumas UNAM,lg3
+tm40,Monterrey,lg3
+tm41,FC Juarez,lg3
+tm42,Pachuca,lg3
+tm43,Querétaro,lg3
+tm44,Mazatlán FC,lg3
+tm45,Tigres UANL,lg3
+tm46,León,lg3
+tm47,América,lg3
+tm48,Cruz Azul,lg3
+tm49,Atlético de San Luis,lg3
+tm50,Tijuana,lg3
+tm51,Puebla,lg3
+tm52,Guadalajara,lg3
+tm53,Toluca,lg3
+tm54,Atlas,lg3
+tm55,Santos,lg3
+tm56,Necaxa,lg3
+tm57,Metz,lg4
+tm58,Nice,lg4
+tm59,Paris Saint-Germain,lg4
+tm60,Lille,lg4
+tm61,Lyon,lg4
+tm62,Stade Rennais,lg4
+tm63,Nantes,lg4
+tm64,Montpellier,lg4
+tm65,Strasbourg,lg4
+tm66,Clermont Foot,lg4
+tm67,Lens,lg4
+tm68,Marseille,lg4
+tm69,Le Havre AC,lg4
+tm70,Brest,lg4
+tm71,Lorient,lg4
+tm72,AS Monaco,lg4
+tm73,Stade de Reims,lg4
+tm74,Toulouse,lg4
+tm75,Hellas Verona,lg5
+tm76,Genoa,lg5
+tm77,Sassuolo,lg5
+tm78,Bologna,lg5
+tm79,Fiorentina,lg5
+tm80,AS Roma,lg5
+tm81,AC Milan,lg5
+tm82,Atalanta,lg5
+tm83,Cagliari,lg5
+tm84,Monza,lg5
+tm85,Internazionale,lg5
+tm86,Udinese,lg5
+tm87,Salernitana,lg5
+tm88,Lazio,lg5
+tm89,Juventus,lg5
+tm90,Frosinone,lg5
+tm91,Empoli,lg5
+tm92,Torino,lg5
+tm93,Lecce,lg5
+tm94,Napoli,lg5
+tm95,Charlotte FC,lg6
+tm96,Portland Timbers,lg6
+tm97,Nashville SC,lg6
+tm98,Houston Dynamo FC,lg6
+tm99,Inter Miami CF,lg6
+tm100,Orlando City SC,lg6
+tm101,LAFC,lg6
+tm102,Austin FC,lg6
+tm103,Toronto FC,lg6
+tm104,New York City FC,lg6
+tm105,Minnesota United FC,lg6
+tm106,Atlanta United FC,lg6
+tm107,LA Galaxy,lg6
+tm108,Colorado Rapids,lg6
+tm109,St. Louis CITY SC,lg6
+tm110,Seattle Sounders FC,lg6
+tm111,CF Montréal,lg6
+tm112,San Jose Earthquakes,lg6
+tm113,Chicago Fire FC,lg6
+tm114,Real Salt Lake,lg6
+tm115,Sporting Kansas City,lg6
+tm116,D.C. United,lg6
+tm117,Vancouver Whitecaps,lg6
+tm118,New England Revolution,lg6
+tm119,Philadelphia Union,lg6
+tm120,Columbus Crew,lg6
+tm121,FC Dallas,lg6
+tm122,New York Red Bulls,lg6
+tm123,FC Cincinnati,lg6
+tm124,Portland Thorns FC,lg7
+tm125,Houston Dash,lg7
+tm126,Racing Louisville FC,lg7
+tm127,Kansas City Current,lg7
+tm128,San Diego Wave FC,lg7
+tm129,Orlando Pride,lg7
+tm130,OL Reign,lg7
+tm131,NJ/NY Gotham FC,lg7
+tm132,Washington Spirit,lg7
+tm133,Angel City FC,lg7
+tm134,Chicago Red Stars,lg7
+tm135,North Carolina Courage,lg7
+tm136,Everton,lg8
+tm137,Tottenham Hotspur,lg8
+tm138,AFC Bournemouth,lg8
+tm139,West Ham United,lg8
+tm140,Brighton & Hove Albion,lg8
+tm141,Fulham,lg8
+tm142,Aston Villa,lg8
+tm143,Liverpool,lg8
+tm144,Manchester City,lg8
+tm145,Wolverhampton Wanderers,lg8
+tm146,Sheffield United,lg8
+tm147,Newcastle United,lg8
+tm148,Manchester United,lg8
+tm149,Luton Town,lg8
+tm150,Arsenal,lg8
+tm151,Burnley,lg8
+tm152,Chelsea,lg8
+tm153,Crystal Palace,lg8
+tm154,Brentford,lg8
+tm155,Nottingham Forest,lg8
