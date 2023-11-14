@@ -128,21 +128,16 @@ function selectPlayerStats() {
         let teamId = teamDropDown.property('value')
         let positionId = positionDropDown.property('value')
         d3.json(`http://127.0.0.1:8000/api/v1.0/player_stats/${leagueId}/${teamId}/${positionId}`).then(function(data) {
-            // let foundPlayers = d3.select('#foundPlayers');
-            // foundPlayers.selectAll('li').remove();
-
-            // data.forEach(p => {
-            //     foundPlayers.append('li').text(p['player_name']).on('click', function() {
-            //         selectPlayerData(p['player_id']);
-            //     });
-            // });
-
             dataGrid.updateConfig({
                 data: data,
                 sort: true
             }).forceRender();
 
         });
+
+        clearSelectedPlayer();
+
+
     };
 };
 
@@ -176,10 +171,19 @@ function selectPlayerData(row, playerId) {
         }
         
 
-        d3.select('#playerBirthdate').text(data[0]['birthdate']);
-        d3.select('#playerHeight').text(data[0]['height']);
-        d3.select('#playerNumber').text(data[0]['jersey_number']);
-        d3.select('#playerNationality').text(data[0]['nationality']);
-        d3.select('#playerWeight').text(data[0]['weight']);
+        d3.select('#playerBirthdate').text(`Birthdate: ${data[0]['birthdate']}`);
+        d3.select('#playerHeight').text(`Height (ft): ${data[0]['height']}`);
+        d3.select('#playerNumber').text(`Jersey Number: ${data[0]['jersey_number']}`);
+        d3.select('#playerNationality').text(`Nationality: ${data[0]['nationality']}`);
+        d3.select('#playerWeight').text(`Weight (lbs): ${data[0]['weight']}`);
     });
+};
+
+function clearSelectedPlayer() {
+    d3.select('#playerPhoto').attr('src', null)
+    d3.select('#playerBirthdate').text('');
+    d3.select('#playerHeight').text('');
+    d3.select('#playerNumber').text('');
+    d3.select('#playerNationality').text('');
+    d3.select('#playerWeight').text('');
 };

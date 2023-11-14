@@ -117,9 +117,9 @@ def getPlayerPhotoAndDemographics(playerId):
     sql = f'''
         SELECT
             p.photo_url,
-            p.jersey_number,
-            p.height,
-            p.weight,
+            CASE WHEN p.jersey_number = -1 THEN 'N/A' ELSE (p.jersey_number)::text END as jersey_number,
+            CASE WHEN p.height = 0 THEN 'N/A' ELSE (p.height)::text END as height,
+            CASE WHEN p.weight = -1 THEN 'N/A' ELSE (p.weight)::text END as weight,
             TO_CHAR(p.birthdate, 'YYYY-MM-DD') as birthdate,
             n.nationality
         FROM
